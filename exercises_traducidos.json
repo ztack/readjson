@@ -6199,5 +6199,2241 @@
             "Recuéstese en un banco plano. Usando un agarre de ancho medio (un agarre que crea un ángulo de 90 grados en medio del movimiento entre los antebrazos y los brazos superiores), levanta la barra desde el bastidor y manténgalo recto sobre el cuello con los brazos cerrados. Esta será tu posición inicial. Mientras respiras, baja lentamente hasta que sientas la barra en el cuello. Después de una segunda pausa, devuelve la barra a la posición inicial mientras respira y empuja la barra usando los músculos del pecho. Cierre los brazos y apriete el pecho en la posición contratada, espere un segundo y luego comience a bajar lentamente de nuevo. Sugerencia: Debe tomar al menos dos veces más tiempo bajar que subir). Repita el movimiento por la cantidad prescrita de repeticiones. Cuando termines, coloca el bar de vuelta en el estante."
         ],
         "category": "fuerza"
+    },
+    {
+        "id": "Oblique_Crunches",
+        "name": "Oblique Crunches",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Acuéstate en el suelo con la espalda baja presionada al suelo. Para este ejercicio, tendrá que poner una mano al lado de su cabeza y la otra al lado del suelo. Asegúrese de que sus pies están elevados y descansan en una superficie plana. Ahora levanta el hombro en el que tu mano está tocando tu cabeza. Simplemente eleva tu hombro y cuerpo hacia arriba hasta que toques tu rodilla. Por ejemplo, si tienes tu mano derecha además de tu cabeza, entonces quieres elevar tu cuerpo hacia arriba hasta que tu codo derecho toque tu rodilla izquierda. La misma variación se puede aplicar haciendo el inverso y usando el codo izquierdo para tocar la rodilla derecha. Después de que tu rodilla toque el codo, baja tu cuerpo hasta que hayas alcanzado la posición inicial. Recuerde respirar durante la parte excéntrica (abajo) del ejercicio y respirar durante la parte concéntrica (arriba) del ejercicio. Continuar alternando de esta manera hasta que se hayan completado todas las repeticiones recomendadas para cada lado."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Oblique_Crunches_-_On_The_Floor",
+        "name": "Oblique Crunches - On The Floor",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Empieza por acostarte en tu lado derecho con tus piernas encima. Asegúrese de que sus rodillas estén dobladas un poco. Pon tu mano izquierda detrás de tu cabeza. Una vez que estés en esta posición establecida, comienza moviendo el codo izquierdo hacia arriba, ya que harías un crujiente normal, excepto esta vez el énfasis principal es en tus oblicuas. Crunch tan alto como puedas, mantener la contracción por un segundo y luego caer lentamente hacia la posición inicial. Recuerde respirar durante la parte excéntrica del ejercicio y respirar durante la parte concéntrica del ejercicio."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Olympic_Squat",
+        "name": "Olympic Squat",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "terneros glutes hamstrings",
+        "instructions": [
+            "Comience con un barbell apoyado sobre las trampas. El pecho debe estar arriba, y la cabeza hacia adelante. Adoptar una posición de ancho de cadera con los pies resultó como era necesario. Descender flexionando las rodillas, absteniéndose de mover las caderas tanto como sea posible. Esto requiere que las rodillas viajen hacia adelante; asegurar que permanezcan alineadas con los pies. El objetivo es mantener el torso lo más recto posible. Continúe hasta abajo, manteniendo el peso en el frente del talón. En el momento en que las piernas superiores se ponen en contacto con el inferior, revierte el movimiento, conduciendo el peso hacia arriba."
+        ],
+        "category": "levantamiento de pesas olímpico"
+    },
+    {
+        "id": "On-Your-Back_Quad_Stretch",
+        "name": "On-Your-Back Quad Stretch",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "otros",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Acuéstate sobre un banco plano o un paso, y cuelga una pierna y un brazo sobre el costado. Dobla la rodilla y sostiene la parte superior del pie. Como usted hace esto, tenga cuidado de no arquear su espalda inferior. Tire el botón del vientre a la columna vertebral para permanecer en neutral. Presiona tu pie hacia abajo y hacia tu mano. Para añadir el estiramiento de la cadera, levante la cadera de la pierna que está manteniendo hacia el techo. Interruptores."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "On_Your_Side_Quad_Stretch",
+        "name": "On Your Side Quad Stretch",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Comience acostándose en el lado derecho, con la rodilla derecha doblada en un ángulo de 90 grados descansando en el suelo frente a usted (esto estabiliza el torso). Dobla tu rodilla izquierda detrás de ti y sostiene tu pie izquierdo con tu mano izquierda. Para estirar su flexor de cadera, presione la cadera izquierda hacia adelante mientras empuja su pie izquierdo hacia atrás en su mano. Interruptores."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "One-Arm_Dumbbell_Row",
+        "name": "One-Arm Dumbbell Row",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "atrás.",
+        "secondaryMuscles": "biceps lats shoulders",
+        "instructions": [
+            "Elige un banco plano y coloca un muñeco a cada lado de él. Coloque la pierna derecha en la parte superior del extremo del banco, dobla el torso hacia adelante desde la cintura hasta que su cuerpo superior sea paralelo al suelo, y coloque su mano derecha en el otro extremo del banco para el soporte. Use la mano izquierda para recoger el muñeco en el suelo y mantener el peso mientras mantiene la espalda baja recta. La palma de la mano debe estar frente a tu torso. Esta será tu posición inicial. Tire la resistencia directamente hacia el lado de su pecho, manteniendo el brazo superior cerca de su lado y manteniendo el torso estacionario. Respira mientras haces este paso. Sugerencia: Concéntrese en apretar los músculos traseros una vez que alcance la posición completa contratada. Además, asegúrese de que la fuerza se realiza con los músculos traseros y no con los brazos. Finalmente, el torso superior debe permanecer estacionario y sólo los brazos deben moverse. Los antebrazos no deben hacer otro trabajo excepto para sostener el muñeco; por lo tanto no traten de sacar el muñeco hacia arriba usando los antebrazos. Baja la resistencia directamente a la posición inicial. Respira mientras realizas este paso. Repita el movimiento por la cantidad especificada de repeticiones. Cambiar los lados y repetir de nuevo con el otro brazo."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Flat_Bench_Dumbbell_Flye",
+        "name": "One-Arm Flat Bench Dumbbell Flye",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "pecho",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Acuéstate en un banco plano con una muñeca en una mano descansando sobre tu muslo. La palma de tu mano con el muñeco en ella debe estar en un agarre neutral. Mediante el uso de sus muslos para ayudarle a levantar el muñeco, limpiar el muñeco para que pueda sostenerlo delante de usted con su brazo levantado completamente extendido. Recuerde mantener un control neutral con este ejercicio. Su mano no levantada debe ser al lado sosteniendo el banco plano para un mejor apoyo. Esta será tu posición inicial. Su brazo con el peso debe tener una ligera curva en el codo para evitar el estrés en el tendón de los bíceps. Comience bajando el brazo con el peso en él en un arco ancho hasta que sientas un estiramiento en el pecho. Respira mientras realizas esta parte del movimiento. Sugerencia: Tenga en cuenta que a lo largo del movimiento, su brazo de elevación debe permanecer fijo; el movimiento sólo debe ocurrir en la articulación del hombro. Devuélvete el brazo de elevación a la posición inicial mientras apretas los músculos del pecho y respiras. Sugerencia: Asegúrese de utilizar el mismo arco de movimiento utilizado para bajar los pesos. Sostenga un segundo en la posición contratada y repita el movimiento por la cantidad prescrita de repeticiones. Cambiar los brazos y repetir el ejercicio."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_High-Pulley_Cable_Side_Bends",
+        "name": "One-Arm High-Pulley Cable Side Bends",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cable",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Conecta un mango estándar a una torre. Mueva el cable a la posición de polea más alta. Ponte de lado a cable. Con una mano, alcanza y agarra el mango con la mano inferior. Baja el cable hasta que el codo toque tu lado y el mango está junto a tu hombro. Posición de pies de cadera de distancia. Coloque la mano libre en la cadera para ayudar a medir el punto de pivote. Mantén el brazo en posición estática. Contrato oblicuo para bajar el peso en una masa lateral. Una vez que alcance la contracción máxima, suelte lentamente el peso a la posición inicial. La pila de peso nunca debe ser descargada en una posición de reposo. El objetivo es una tensión constante durante el set. Repite al fracaso. Luego, reposición y repetición de la misma serie de movimientos en el lado opuesto."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Incline_Lateral_Raise",
+        "name": "One-Arm Incline Lateral Raise",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Acuéstate de lado en una prensa de banco inclinada con una campana tonta en la mano. Asegúrese de que el hombro está presionando contra el banco inclinado y el brazo está acostado a través de su cuerpo con la palma alrededor de su ombligo. Sostenga un muñeco en su brazo más alto mientras mantiene extendido delante de usted paralelo al suelo. Esta es tu posición inicial. Mientras mantiene el muñeco paralelo al suelo en todo momento, realizar un aumento lateral. Su brazo debe viajar directamente hasta que apunta al techo. Sugerencia: Exhala mientras realizas este movimiento. Sostenga el muñeco en la posición y sienta la contracción en los hombros por un segundo. Mientras inhala bajar el peso a través de su cuerpo de nuevo en la posición de inicio. Repita el movimiento por la cantidad prescrita de repeticiones. Cambiar los brazos y repetir el movimiento."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Kettlebell_Clean",
+        "name": "One-Arm Kettlebell Clean",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "timbres",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "glutes inferior hombros trampa",
+        "instructions": [
+            "Coloque un timbre entre los pies. Mientras te inclinas para agarrar el timbre, empuja tu trasero hacia atrás y mantiene tus ojos mirando hacia adelante. Limpie el timbre a sus hombros extendiéndose por las piernas y las caderas mientras levanta el timbre hacia su hombro. La muñeca debe girar como usted lo hace. Devuelve el peso a la posición inicial."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Kettlebell_Clean_and_Jerk",
+        "name": "One-Arm Kettlebell Clean and Jerk",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "timbres",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Mantén un hervidor junto al mango. Limpie el timbre a su hombro al extenderse por las piernas y las caderas mientras tira el timbre hacia su hombro. Gira tu muñeca como lo haces, para que la palma se vea adelante. Sumerja el cuerpo doblando las rodillas, manteniendo el torso recto. Inmediatamente invierte la dirección, conduciendo a través de los talones, en esencia saltando para crear impulso. Como usted lo hace, presione la campana de hervidor para bloquear al extender los brazos, utilizando el impulso de su cuerpo para mover el peso. Recibe la sobrecarga de peso regresando a una posición de escuadrón debajo del peso. Mantener el peso arriba, volver a una posición de pie. Baja el peso al suelo para realizar la próxima repetición."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Kettlebell_Floor_Press",
+        "name": "One-Arm Kettlebell Floor Press",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "timbres",
+        "primaryMuscles": "pecho",
+        "secondaryMuscles": "triceps",
+        "instructions": [
+            "Acuéstate en el suelo sosteniendo un hervidor con una mano, con el brazo superior apoyado por el suelo. La palma debe estar mirando. Presione el timbre recto hacia el techo, girando la muñeca. Baja el timbre de nuevo a la posición inicial y repite."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Kettlebell_Jerk",
+        "name": "One-Arm Kettlebell Jerk",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "timbres",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "cuadriceps",
+        "instructions": [
+            "Mantén un hervidor junto al mango. Limpie el timbre a su hombro al extenderse por las piernas y las caderas mientras tira el timbre hacia su hombro. Gira tu muñeca como lo haces, para que la palma se vea adelante. Esta será tu posición inicial. Sumerja el cuerpo doblando las rodillas, manteniendo el torso recto. Inmediatamente invierte la dirección, conduciendo a través de los talones, en esencia saltando para crear impulso. Como usted lo hace, presione la campana de hervidor para bloquear al extender los brazos, utilizando el impulso de su cuerpo para mover el peso. Recibe la sobrecarga de peso regresando a una posición de escuadrón debajo del peso. Mantener el peso arriba, volver a una posición de pie. Baja el peso para realizar la próxima repetición."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Kettlebell_Military_Press_To_The_Side",
+        "name": "One-Arm Kettlebell Military Press To The Side",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "timbres",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "triceps",
+        "instructions": [
+            "Limpia un hervidor en el hombro. Limpie el timbre a su hombro al extenderse por las piernas y las caderas mientras tira el timbre hacia su hombro. Gira tu muñeca como lo haces, para que la palma se vea hacia dentro. Esta será tu posición inicial. Mira el timbre y presione hasta que esté cerrado. Baja el timbre de vuelta a tu hombro bajo control y repite. Asegúrese de contraer su lat, el trasero y el estómago con fuerza para una mayor estabilidad y fuerza."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Kettlebell_Para_Press",
+        "name": "One-Arm Kettlebell Para Press",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "timbres",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "triceps",
+        "instructions": [
+            "Limpia un hervidor en el hombro. Limpie el timbre a su hombro al extenderse por las piernas y las caderas mientras tira el timbre hacia su hombro. Gira tu muñeca como lo haces, para que la palma se vea adelante. Esta será tu posición inicial. Mantenga el timbre con el codo hacia el lado, y presione hacia arriba y hacia fuera hasta que esté bloqueado arriba. Baja el timbre de vuelta a tu hombro bajo control y repite. Asegúrese de contraer su lat, el trasero y el estómago con fuerza para una mayor estabilidad y fuerza."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Kettlebell_Push_Press",
+        "name": "One-Arm Kettlebell Push Press",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "timbres",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "cuadriceps",
+        "instructions": [
+            "Mantén un hervidor junto al mango. Limpie el timbre a su hombro al extenderse por las piernas y las caderas mientras tira el timbre hacia su hombro. Gira tu muñeca como lo haces, para que la palma se vea adelante. Esta será tu posición inicial. Sumerja el cuerpo doblando las rodillas, manteniendo el torso recto. Inmediatamente invierte la dirección, conduciendo a través de los talones, en esencia saltando para crear impulso. Como usted lo hace, presione la campana de hervidor para bloquear al extender los brazos, utilizando el impulso de su cuerpo para mover el peso. Baja el peso para realizar la próxima repetición."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Kettlebell_Row",
+        "name": "One-Arm Kettlebell Row",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "timbres",
+        "primaryMuscles": "atrás.",
+        "secondaryMuscles": "biceps lats",
+        "instructions": [
+            "Coloque un timbre delante de sus pies. Dobla las rodillas ligeramente y luego empuja tu trasero hacia fuera tanto como sea posible como te doblas para entrar en la posición inicial. Coge el timbre y tíralo a tu estómago, retrayendo tu hoja de hombro y flexionando el codo. Mantén la espalda recta. Bajo y repetido."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Kettlebell_Snatch",
+        "name": "One-Arm Kettlebell Snatch",
+        "force": "Tira",
+        "level": "expert",
+        "equipment": "timbres",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "terneros glutes hamstrings abajo trampas triceps",
+        "instructions": [
+            "Coloque un timbre entre los pies. Dobla tus rodillas y empuja tu trasero para llegar a la posición de inicio adecuada. Mira hacia adelante y gira el timbre entre tus piernas. Inmediatamente revierte la dirección y conduce a través de sus caderas y rodillas, acelerando el timbre hacia arriba. A medida que el timbre se eleva a su hombro gira la mano y golpea directamente hacia arriba, utilizando el impulso para recibir el peso bloqueado arriba."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Kettlebell_Split_Jerk",
+        "name": "One-Arm Kettlebell Split Jerk",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "timbres",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "glutes hamstrings quadriceps triceps",
+        "instructions": [
+            "Mantén un hervidor junto al mango. Limpie el timbre a su hombro al extenderse por las piernas y las caderas mientras tira el timbre hacia su hombro. Gira tu muñeca como lo haces, para que la palma se vea adelante. Esta será tu posición inicial. Sumerja el cuerpo doblando las rodillas, manteniendo el torso recto. Inmediatamente invierte la dirección, conduciendo a través de los talones, en esencia saltando para crear impulso. Como usted lo hace, presione la campana de hervidor para bloquear al extender los brazos, utilizando el impulso de su cuerpo para mover el peso. Recibe la sobrecarga de peso regresando a una posición de escuadrón debajo del peso, colocando una pierna delante de usted y una pierna detrás de usted. Mantener el peso arriba, volver a una posición de pie y reunir los pies. Baja el peso para realizar la próxima repetición."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Kettlebell_Split_Snatch",
+        "name": "One-Arm Kettlebell Split Snatch",
+        "force": "Tira",
+        "level": "expert",
+        "equipment": "timbres",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "Hamstrings quadriceps",
+        "instructions": [
+            "Mantén un hervidor en una mano junto al mango. Escuadra hacia el suelo, y luego revierte el movimiento, extendiendo las caderas, las rodillas, y finalmente los tobillos, para elevar el timbre sobre la cabeza. Después de extender completamente el cuerpo, descender a una posición de pulmón para recibir los pesos sobre la cabeza, una pierna hacia adelante y una pierna hacia atrás. Asegúrese de conducir a través de sus caderas y bloquear las campanas de hervidor en un movimiento ininterrumpido. Regrese a una posición de pie, sostenga el peso sobre la cabeza, y reúna los pies. Baja el peso para volver a la posición inicial."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Kettlebell_Swings",
+        "name": "One-Arm Kettlebell Swings",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "timbres",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "terneros glutes hombros traseros inferiores",
+        "instructions": [
+            ""
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Long_Bar_Row",
+        "name": "One-Arm Long Bar Row",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "Barbell",
+        "primaryMuscles": "atrás.",
+        "secondaryMuscles": "biceps lats",
+        "instructions": [
+            "Colocar un bar en una mina terrestre o en un rincón para evitar que se mueva. Cargue un peso apropiado en su extremo. Párese junto a la barra, y tome un agarre con una mano cerca del cuello. Usando tus caderas y piernas, sube a una posición de pie. Sumérgete en una postura de bent-knee con tus caderas y tu pecho hacia arriba. Su brazo debe ser extendido. Esta será tu posición inicial. Tire el peso a su lado retrayendo el hombro y flexionando el codo. No tiñe el peso o el engaño durante el movimiento. Después de una breve pausa, vuelva a la posición inicial."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Medicine_Ball_Slam",
+        "name": "One-Arm Medicine Ball Slam",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "Bola de medicina",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "lats shoulders",
+        "instructions": [
+            "Comience en una posición de pie con una postura escalonada y atlética. Sostenga una bola de medicina en una mano, en el mismo lado que la pierna trasera. Esta será tu posición inicial. Comience por el viento del brazo, levantando la bola de medicina sobre su cabeza. Como usted lo hace, extender a través de las caderas, rodillas y tobillos para cargar para el golpe. En la extensión pico, flexione los hombros, la columna vertebral y las caderas para lanzar la bola dura en el suelo directamente delante de usted. Coge la pelota en el rebote y continúe por el número deseado de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Open_Palm_Kettlebell_Clean",
+        "name": "One-Arm Open Palm Kettlebell Clean",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "timbres",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "antebrazos glutes inferior espalda cuadriceps hombros",
+        "instructions": [
+            "Coloque un timbre entre los pies. Coge el mango con una mano y levanta el timbre rápidamente, déjalo girar para que la bola del timbre aterrice en la palma de tu mano. Tira el timbre delante de ti y agarra el mango con una mano. Lleva el timbre al suelo y repite. Asegúrate de trabajar ambos brazos."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Overhead_Kettlebell_Squats",
+        "name": "One-Arm Overhead Kettlebell Squats",
+        "force": "empujar",
+        "level": "expert",
+        "equipment": "timbres",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "terneros glutes hamstrings hombros",
+        "instructions": [
+            "Limpia y presiona un hervidor con un brazo. Limpie el timbre a su hombro al extenderse por las piernas y las caderas mientras tira el timbre hacia su hombro. Gira tu muñeca como lo haces. Presione el sobrepeso al extenderse a través del codo. Esta será tu posición inicial. Mirando hacia adelante y manteniendo un timbre encerrado sobre ti, flexiona las rodillas y las caderas y baja el torso entre las piernas, manteniendo la cabeza y el pecho hacia arriba. Pausa en la posición inferior por un segundo antes de volver a la cima, conduciendo a través de los talones de los pies."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Side_Deadlift",
+        "name": "One-Arm Side Deadlift",
+        "force": "Tira",
+        "level": "expert",
+        "equipment": "Barbell",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "Cápsulas abdominales glutes hamstrings inferiores trampas traseras",
+        "instructions": [
+            "Ponte al lado de un barbell junto a su centro. Dobla tus rodillas y baja tu cuerpo hasta que puedas llegar al peluquero. Grasp the bar como si estuvieras agarrando un maletín (palms que enfrentas desde que el bar es lateral). Es posible que necesite un envoltorio de muñeca si está usando una cantidad significativa de peso. Esta es tu posición inicial. Use sus piernas para ayudar a levantar el peluquero mientras exhala. Sus brazos deben extenderse completamente como traer el peluquero hasta que esté en una posición de pie. Lentamente trae el barbell hacia abajo mientras inhala. Sugerencia: Asegúrese de doblar las rodillas mientras baja el peso para evitar que se produzca alguna lesión. Repita por la cantidad recomendada de repeticiones. Cambiar los brazos y repetir el movimiento."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Arm_Side_Laterals",
+        "name": "One-Arm Side Laterals",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Escoge un muñeco y ponlo en una de tus manos. Su mano no levantada debe usarse para agarrar algo estable como una prensa de banco inclinada. Inclínate hacia tu brazo de elevación y lejos de la mano que está agarrando el banco inclinado ya que esto te permitirá mantener tu equilibrio. Párese con un torso recto y tenga el muñeco junto a su lado a la longitud del brazo con la palma de la mano frente a usted. Esta será tu posición inicial. Mientras mantiene el torso estacionario (sin oscilar), levante el muñeco a su lado con una ligera curva en el codo y su mano ligeramente inclinada hacia adelante como si derramara agua en un vaso. Continuar subiendo hasta que el brazo sea paralelo al suelo. Exhale mientras ejecuta este movimiento y pausa por un segundo en la parte superior. Baja el muñeco de nuevo lentamente a la posición inicial mientras inhala. Repita por la cantidad recomendada de repeticiones. Cambiar los brazos y repetir el ejercicio."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One-Legged_Cable_Kickback",
+        "name": "One-Legged Cable Kickback",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "cable",
+        "primaryMuscles": "glutes",
+        "secondaryMuscles": "Hamstrings",
+        "instructions": [
+            "Coloque un manguito de cuero en una polea de cable baja y luego coloque el puño en el tobillo. Frente a la pila de peso de una distancia de unos dos pies, agarrando el marco de acero para soporte. Mientras mantienes las rodillas y las caderas dobladas ligeramente y tus abdominales apretados, contrata tus glúteos para \"coger\" lentamente la pierna de trabajo en un arco semicircular tan alto como se irá cómodamente mientras respiras. Sugerencia: En la extensión completa, exprime tus glutas por un segundo para lograr una contracción máxima. Ahora trae lentamente la pierna de trabajo hacia adelante, resistiendo la tirada del cable hasta llegar a la posición inicial. Repita por la cantidad recomendada de repeticiones. Cambiar las piernas y repetir el movimiento por el otro lado."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One_Arm_Against_Wall",
+        "name": "One Arm Against Wall",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "",
+        "primaryMuscles": "lats",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Desde una posición de pie, coloque un brazo doblado contra una pared o puerta. Lentamente inclinado hacia tu brazo hasta que sientas un estiramiento en tus lats."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "One_Arm_Chin-Up",
+        "name": "One Arm Chin-Up",
+        "force": "Tira",
+        "level": "expert",
+        "equipment": "otros",
+        "primaryMuscles": "atrás.",
+        "secondaryMuscles": "antebrazos",
+        "instructions": [
+            "Para este ejercicio, comience colocando una toalla alrededor de un bar de mentón. Coge el bar con la palma que te mira. Una mano estará agarrando la barra de mentón y la otra estará agarrando la toalla. Traiga su torso de vuelta alrededor de 30 grados o así mientras crea una curvatura en su espalda inferior y pega su pecho fuera. Esta es tu posición inicial.v Tire el torso hasta que la barra toque su pecho superior dibujando los hombros y los brazos superiores hacia abajo y hacia atrás. Exhala mientras realizas esta parte del movimiento. Sugerencia: Concéntrese en apretar los músculos traseros una vez que alcance la posición completa contratada. El torso superior debe permanecer estacionario mientras se mueve a través del espacio y sólo los brazos deben moverse. Los antebrazos no deben hacer otro trabajo aparte de sostener el bar. Después de un segundo en la posición contratada, comience a inhalar y lentamente bajar su torso de nuevo a la posición inicial cuando sus brazos se extienden completamente y los lats se estiran completamente. Repita esta moción por la cantidad prescrita de repeticiones. Cambiar los brazos y repetir el movimiento."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One_Arm_Dumbbell_Bench_Press",
+        "name": "One Arm Dumbbell Bench Press",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "pecho",
+        "secondaryMuscles": "hombros triceps",
+        "instructions": [
+            "Acuéstate en un banco plano con una muñeca en una mano encima de tu muslo. Usando tu muslo para ayudarte a levantar el muñeco, limpia el muñeco para que puedas sostenerlo delante de ti a la anchura del hombro. Usa la mano con la que no estás levantando para ayudar a colocar el muñeco sobre ti correctamente. Una vez a la anchura del hombro, gira la muñeca hacia adelante para que la palma de la mano se enfrente de ti. Esta será tu posición inicial. Baja los pesos lentamente a tu lado mientras respiras. Mantenga el control completo del muñeco en todo momento. Sugerencia: Usa la mano con la que no estás levantando para ayudar a mantener el equilibrio de muñecos ya que puedes luchar un poco al principio. Sólo usa tu mano no elevadora si es necesaria. De lo contrario, manténgalo descansando al costado. Mientras respiras, empuja las muñecas hacia arriba usando tus músculos pectorales. Cierra los brazos en la posición contratada, apreta el pecho, aguanta un segundo y luego empieza a bajar lentamente. Sugerencia: Debería tomar al menos dos veces más tiempo bajar que subir. Repita el movimiento por la cantidad prescrita de repeticiones de su programa de entrenamiento. Cambiar los brazos y repetir el movimiento."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One_Arm_Dumbbell_Preacher_Curl",
+        "name": "One Arm Dumbbell Preacher Curl",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "biceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Coge un muñeco con el brazo derecho y coloca el brazo superior encima del banco del predicador o el banco inclinado. El muñeco debe ser sostenido a la longitud del hombro. Esta será tu posición inicial. Mientras respiras, baja lentamente el muñeco hasta que el brazo superior se extiende y los bíceps se estiran completamente. Mientras exhala, utilice los bíceps para frenar el peso hasta que sus bíceps estén completamente contratados y el muñeco está a la altura del hombro. Una vez más, recuerde que para asegurar la contracción completa usted necesita traer ese dedo pequeño más alto que el pulgar. Extiende los bíceps duro por un segundo en la posición contratada y repite por la cantidad recomendada de repeticiones. Cambiar los brazos y repetir el movimiento."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One_Arm_Floor_Press",
+        "name": "One Arm Floor Press",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "triceps",
+        "secondaryMuscles": "hombros pecho",
+        "instructions": [
+            "Acuéstate sobre una superficie plana con la espalda presionando contra el suelo o una estera de ejercicio. Asegúrese de que sus rodillas estén dobladas. Que un compañero te dé la barra por un lado. Al comenzar, su brazo debe estar casi completamente extendido, similar a la posición inicial de una prensa de banco de barbell. Sin embargo, esta vez su agarre será neutral (palos frente a su torso). Asegúrese de que la mano que no está usando para levantar el peso se coloca a su lado. Comience el ejercicio bajando la campana hasta que el codo toque el suelo. Asegúrate de respirar ya que esta es la excéntrica (parte que disminuye el ejercicio). Luego empieza a levantar el barbell hasta la posición inicial original. Recuerde respirar durante el concéntrico (parte elevadora del ejercicio). Repita hasta que haya realizado sus repeticiones recomendadas. Cambiar los brazos y repetir el movimiento."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One_Arm_Lat_Pulldown",
+        "name": "One Arm Lat Pulldown",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cable",
+        "primaryMuscles": "lats",
+        "secondaryMuscles": "Biceps en el centro de atrás",
+        "instructions": [
+            "Seleccione un peso adecuado y ajuste la almohadilla de rodilla para ayudarle a bajar. Aplique el mango con un agarre pronado. Esta será tu posición inicial. Baja el mango, apretando el codo a tu lado mientras flexionas el codo. Pausa en la parte inferior del movimiento, y luego lentamente devolver el mango a la posición de inicio. Para múltiples repeticiones, evite devolver completamente el peso para mantener la tensión en los músculos que se trabajan."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One_Arm_Pronated_Dumbbell_Triceps_Extension",
+        "name": "One Arm Pronated Dumbbell Triceps Extension",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "triceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Acuéstate en un banco mientras sostienes un muñeco a lo largo de los brazos. Tu brazo debe ser perpendicular a tu cuerpo. La palma de tu mano debe estar orientada hacia tus pies como un agarre pronado es necesario para realizar este ejercicio. Coloque su mano no levantada en su bicep para apoyar. Poco a poco comienza a bajar la campana mientras respiras. Entonces, empieza a levantar la campana hacia arriba mientras contratas los triceps. Recuerde respirar durante el concéntrico (parte elevadora del ejercicio). Repita hasta que haya realizado sus repeticiones de conjunto. Cambiar los brazos y repetir el movimiento."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One_Arm_Supinated_Dumbbell_Triceps_Extension",
+        "name": "One Arm Supinated Dumbbell Triceps Extension",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "triceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Acuéstate en un banco mientras sostienes un muñeco a lo largo de los brazos. Tu brazo debe ser perpendicular a tu cuerpo. La palma de tu mano debe estar orientada hacia tu cara como una empuñadura supinada es necesaria para realizar este ejercicio. Coloque su mano no levantada en su bicep para apoyar. Poco a poco comienza a bajar la campana mientras respiras. Entonces, empieza a levantar la campana hacia arriba mientras contratas los triceps. Recuerde respirar durante el concéntrico (parte elevadora del ejercicio). Repita hasta que haya realizado sus repeticiones de conjunto. Cambiar los brazos y repetir el movimiento. Cambiar los brazos de nuevo y repetir el movimiento."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "One_Half_Locust",
+        "name": "One Half Locust",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "abdominales biceps pecho",
+        "instructions": [
+            "Acuéstate boca abajo en el suelo. Ponga su mano izquierda bajo su cadera izquierda para remojar su cadera y hueso púbico. Dobla la rodilla derecha para que puedas sostener el pie en la mano derecha. Levanta el pie en el aire y al mismo tiempo levanta los hombros fuera del suelo. Esto también estira el flexor derecho de la cadera y el pecho y los hombros. Interruptores. Si no te molesta la espalda, puedes probarla con brazos y piernas al mismo tiempo."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "One_Handed_Hang",
+        "name": "One Handed Hang",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "otros",
+        "primaryMuscles": "lats",
+        "secondaryMuscles": "biceps",
+        "instructions": [
+            "Coge una barra de chinup con una mano, usando un agarre pronado. Mantén tus pies en el suelo o un paso. Permite que la mayoría de su peso cuelgue de esa mano, mientras mantiene sus pies en el suelo. Sostenga durante 10-20 segundos y cambie los lados."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "One_Knee_To_Chest",
+        "name": "One Knee To Chest",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "",
+        "primaryMuscles": "glutes",
+        "secondaryMuscles": "Hamstrings baja la espalda",
+        "instructions": [
+            "Empieza a acostarte en el suelo. Extender una pierna recta y tirar la otra rodilla a su pecho. Manténgase bajo la articulación de la rodilla para proteger la rótula. Golpea suavemente esa rodilla hacia tu nariz. Interruptores. Esto estira las nalgas y la espalda baja de la pierna doblada y el flexor de la cadera de la pierna recta."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "One_Leg_Barbell_Squat",
+        "name": "One Leg Barbell Squat",
+        "force": "empujar",
+        "level": "expert",
+        "equipment": "Barbell",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "terneros glutes hamstrings",
+        "instructions": [
+            "Comienza de pie de 2 a 3 pies delante de un banco plano con la espalda frente al banco. Ten un barbell delante de ti en el suelo. Sugerencia: Tus pies deben estar separados del hombro. Dobla las rodillas y usa un agarre pronado con las manos siendo más ancho que el ancho del hombro para levantar el ladrido hasta que puedas descansar en el pecho. Entonces levanta el pezón sobre tu cabeza y descansa sobre la base de tu cuello. Mueva un pie atrás para que su dedo esté descansando en el banco plano. Tu otro pie debería estar fijo delante de ti. Mantenga la cabeza levantada en todo momento mientras mira hacia abajo le conseguirá fuera de equilibrio y también mantener una espalda recta. Sugerencia: Asegúrese de que su espalda es recta y el pecho está fuera mientras realiza este ejercicio. Al inhalar, baja lentamente la pierna hasta que el muslo esté paralelo al suelo. En este punto, tu rodilla debe estar sobre tus dedos. Tu pecho debe estar directamente sobre el medio de tu muslo. Liderando con el pecho y las caderas y contratando los cuádriceps, eleva tu pierna de nuevo a la posición inicial mientras exhala. Repita por la cantidad recomendada de repeticiones. Cambiar las piernas y repetir el movimiento."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Open_Palm_Kettlebell_Clean",
+        "name": "Open Palm Kettlebell Clean",
+        "force": "Tira",
+        "level": "expert",
+        "equipment": "timbres",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "glutes inferior trasero cuadriceps hombros",
+        "instructions": [
+            "Coloque un timbre entre los pies. Limpia el timbre al extenderse por las piernas y las caderas mientras levantas el timbre hacia tus hombros. Libera el timbre cuando sube, y déjalo girar para que la bola del timbre aterrice en las palmas de tus manos. Libera el timbre delante de ti y agarra el mango con ambas manos. Baja el timbre a la posición inicial y repite."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Otis-Up",
+        "name": "Otis-Up",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "otros",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "hombros pecho triceps",
+        "instructions": [
+            "Asegure sus pies y retroceda en el suelo. Tus rodillas deben doblarse. Mantenga un peso con ambas manos en el pecho. Esta será tu posición inicial. Inicie el movimiento flexionando las caderas y la columna vertebral para elevar su torso desde el suelo. A medida que avanzas, presiona el peso para que esté por encima de tu cabeza en la parte superior del movimiento. Devuelve el peso a tu pecho mientras reviertes el movimiento de sentada, asegurando no bajar hasta el suelo."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Overhead_Cable_Curl",
+        "name": "Overhead Cable Curl",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "cable",
+        "primaryMuscles": "biceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Para empezar, establece un peso que es cómodo en cada lado de la máquina de polea. Nota: Asegúrese de que la cantidad de peso seleccionada es la misma en cada lado. Ahora ajusta la altura de las poleas de cada lado y asegúrate de que estén colocadas en una altura superior a la de tus hombros. Póngase en el centro de ambos lados y use un agarre inferior (palos hacia el techo) para agarrar cada mango. Sus brazos deben ser totalmente extendidos y paralelos al suelo con los pies de ancho del hombro posicionado aparte uno del otro. Tu cuerpo debe estar alineado uniformemente con las manijas. Esta es la posición inicial. Al exhalar, apretar lentamente los bíceps en cada lado hasta que sus antebrazos y bíceps toquen. Mientras inhala, mueva sus antebrazos de vuelta a la posición inicial. Nota: Todo su cuerpo es estacionario durante este ejercicio excepto para los antebrazos. Repita por la cantidad recomendada de repeticiones prescritas en su programa."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Overhead_Lat",
+        "name": "Overhead Lat",
+        "force": "estática",
+        "level": "expert",
+        "equipment": "otros",
+        "primaryMuscles": "lats",
+        "secondaryMuscles": "triceps",
+        "instructions": [
+            "Siéntate en el piso con tu compañero detrás de ti. Levante un brazo derecho arriba, y flexione el codo, tratando de tocar su mano a su espalda. Su persiana debe mantener su tricep y la muñeca. Esta será tu posición inicial. Intente tirar su brazo superior a su lado, ya que su pareja le impide hacerlo. Después de 10-20 segundos, relájese el brazo y permita que su pareja siga estirando el lat aplicando una presión suave al tricep. Sostenga durante 10-20 segundos, y luego cambie los lados."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Overhead_Slam",
+        "name": "Overhead Slam",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "Bola de medicina",
+        "primaryMuscles": "lats",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Sostenga una bola de medina con ambas manos y soporte con los pies a ancho del hombro. Esta será tu posición inicial. Inicie el contramovimiento al elevar la bola sobre su cabeza y extender completamente su cuerpo. Retrocede el movimiento, recortando la bola en el suelo directamente delante de usted tan duro como pueda. Recibe la pelota con ambas manos en el rebote y repita el movimiento."
+        ],
+        "category": "plyometrics"
+    },
+    {
+        "id": "Overhead_Squat",
+        "name": "Overhead Squat",
+        "force": "empujar",
+        "level": "expert",
+        "equipment": "Barbell",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "terneros abdominales glutes hamstrings inferior hombros triceps",
+        "instructions": [
+            "Empieza por tener un barbell delante de ti en el suelo. Tus pies deben ser más anchos que los hombros separados. Dobla las rodillas y usa un agarre pronado (palos que te miran) para agarrar el ladrido. Tus manos deben estar en un ancho más ancho que el hombro aparte del otro antes de levantarse. Una vez que esté colocado, levante el peluquero hasta que pueda descansar en su pecho. Mueva el pechero y un poco detrás de la cabeza y asegúrese de que sus brazos estén completamente extendidos. Mantenga la cabeza en todo momento y mantenga una espalda recta. Retira tus hojas de hombro. Esta es tu posición inicial. Baja lentamente el peso doblando las rodillas hasta que los muslos estén paralelos al suelo mientras inhala. Sugerencia: Mantenga la espalda recta mientras realiza este ejercicio para evitar cualquier lesión y sus brazos deben permanecer extendidos y sobre su cabeza en todo momento. Ahora usa tus pies y piernas para ayudar a que el peso vuelva a la posición inicial mientras exhala. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "levantamiento de pesas olímpico"
+    },
+    {
+        "id": "Overhead_Stretch",
+        "name": "Overhead Stretch",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "antebrazos en el pecho",
+        "instructions": [
+            "De pie derecho, encaje los dedos juntos y abra las palmas al techo. Mantenga los hombros hacia abajo mientras extiende los brazos hacia arriba. Para crear un estiramiento de torso completo, tire de la columna trasera hacia abajo y estabilizar el torso como usted hace esto. Estira los músculos tanto en el frente como en la parte posterior del torso."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Overhead_Triceps",
+        "name": "Overhead Triceps",
+        "force": "estática",
+        "level": "expert",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "triceps",
+        "secondaryMuscles": "lats",
+        "instructions": [
+            "Siéntate en el piso con tu compañero detrás de ti. Levante un brazo derecho arriba, y flexione el codo, tratando de tocar su mano a su espalda. Su persiana debe mantener el codo y la muñeca. Esta será tu posición inicial. Intenta extender el brazo directamente al aire, ya que tu pareja te impide hacerlo. Después de 10-20 segundos, relájese el brazo y permita que su pareja siga estirando el tricep aplicando una presión suave a la muñeca. Sostenga durante 10-20 segundos, y luego cambie los lados."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Pallof_Press",
+        "name": "Pallof Press",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cable",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "hombros pecho triceps",
+        "instructions": [
+            "Conectar un mango estándar a una torre, y —si es posible— situar el cable a la altura del hombro. Si no, una polea baja bastará. Con tu lado al cable, agarra el mango con ambas manos y aléjate de la torre. Usted debe estar aproximadamente la longitud del brazo lejos de la polea, con la tensión del peso en el cable. Con los pies colocados de la cadera y las rodillas ligeramente dobladas, mantenga el cable en el centro de su pecho. Esta será tu posición inicial. Presione el cable lejos de su pecho, extendiendo completamente ambos brazos. Tu núcleo debe estar apretado y comprometido. Sostenga la repetición durante varios segundos antes de regresar a la posición inicial. Al final del set, repetir frente a la otra dirección."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Pallof_Press_With_Rotation",
+        "name": "Pallof Press With Rotation",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cable",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "hombros pecho triceps",
+        "instructions": [
+            "Conecta un mango estándar a una torre, y coloca el cable a la altura del hombro. Con tu lado al cable, agarra el mango con una mano y aléjate de la torre. Usted debe estar aproximadamente la longitud del brazo lejos de la polea, con la tensión del peso en el cable. Alinear el brazo extendido con cable. Con los pies colocados en la parte trasera de la cadera, tire el cable en el pecho y agarra el mango con la otra mano. Ambas manos deben estar en el mango en este momento. Enfrentándose hacia adelante, presione el cable lejos de su pecho. Tu núcleo debe estar apretado y comprometido. Mantener las caderas rectas, girar el torso lejos de la polea hasta obtener un cuarto completo de rotación. Mantenga su postura rígida y brazos rectos. Volver a la posición neutral de manera lenta y controlada. Tus brazos deben extenderse delante de ti. Con la tensión lateral que aún mantiene tu núcleo, lleva tus manos a tu pecho e inmediatamente presiona hacia fuera a una posición totalmente extendida. Esto constituye un representante. Repite al fracaso. Luego, reposición y repetición de la misma serie de movimientos en el lado opuesto."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench",
+        "name": "Palms-Down Dumbbell Wrist Curl Over A Bench",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "antebrazos",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Empieza colocando dos muñecos en un lado de un banco plano. Arrodíllate en ambas rodillas para que tu cuerpo esté frente al banco plano. Use sus brazos para agarrar ambos muñecos con un agarre pronado (palos hacia abajo) y traerlos para que sus antebrazos estén descansando contra el banco plano. Tus muñecas deberían estar colgando sobre el borde. Comienza a curar tu muñeca hacia arriba y exhalando. Baja lentamente las muñecas de nuevo a la posición inicial mientras inhala. Sus antebrazos deben ser estacionarios ya que su muñeca es el único movimiento necesario para realizar este ejercicio. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Palms-Down_Wrist_Curl_Over_A_Bench",
+        "name": "Palms-Down Wrist Curl Over A Bench",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "Barbell",
+        "primaryMuscles": "antebrazos",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Comience colocando un barbell en un lado de un banco plano. Arrodíllate en ambas rodillas para que tu cuerpo esté frente al banco plano. Use sus brazos para agarrar el peluquero con un agarre pronado (palos abajo) y traerlos para que sus antebrazos estén descansando contra el banco plano. Tus muñecas deberían estar colgando sobre el borde. Comienza a curar tu muñeca hacia arriba y exhalando. Baja lentamente las muñecas de nuevo a la posición inicial mientras inhala. Sus antebrazos deben ser estacionarios ya que su muñeca es el único movimiento necesario para realizar este ejercicio. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench",
+        "name": "Palms-Up Barbell Wrist Curl Over A Bench",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "Barbell",
+        "primaryMuscles": "antebrazos",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Comience colocando un barbell en un lado de un banco plano. Arrodíllate en ambas rodillas para que tu cuerpo esté frente al banco plano. Usa tus brazos para agarrar el peluquero con un agarre supinado (palos arriba) y levantarlos para que tus antebrazos estén descansando contra el banco plano. Tus muñecas deberían estar colgando sobre el borde. Comienza a curar tu muñeca hacia arriba y exhalando. Baja lentamente las muñecas de nuevo a la posición inicial mientras inhala. Sus antebrazos deben ser estacionarios ya que su muñeca es el único movimiento necesario para realizar este ejercicio. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench",
+        "name": "Palms-Up Dumbbell Wrist Curl Over A Bench",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "antebrazos",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Empieza colocando dos muñecos en un lado de un banco plano. Arrodíllate en ambas rodillas para que tu cuerpo esté frente al banco plano. Use sus brazos para agarrar ambos muñecos con un agarre supinado (palos arriba) y traerlos para que sus antebrazos estén descansando contra el banco plano. Tus muñecas deberían estar colgando sobre el borde. Comienza a curar tu muñeca hacia arriba y exhalando. Baja lentamente las muñecas de nuevo a la posición inicial mientras inhala. Asegúrese de inhalar durante esta parte del ejercicio. Sus antebrazos deben ser estacionarios ya que su muñeca es el único movimiento necesario para realizar este ejercicio. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Parallel_Bar_Dip",
+        "name": "Parallel Bar Dip",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "otros",
+        "primaryMuscles": "triceps",
+        "secondaryMuscles": "hombros pecho",
+        "instructions": [
+            "Párese entre un conjunto de barras paralelas. Coloque una mano en cada barra, y luego tome un pequeño salto para ayudarle a entrar en la posición inicial con los brazos cerrados. Comience flexionando el codo, bajando su cuerpo hasta que sus brazos se rompan 90 grados. Evite oscilar y mantener una buena postura a lo largo del descenso. Retrocede el movimiento al extender el codo, empujando hacia arriba hacia la posición inicial. Repita el número deseado de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Pelvic_Tilt_Into_Bridge",
+        "name": "Pelvic Tilt Into Bridge",
+        "force": "estática",
+        "level": "intermedio",
+        "equipment": "",
+        "primaryMuscles": "inferior",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Acuéstate con los pies en el suelo, tacones directamente debajo de las rodillas. Levante sólo la columna trasera al techo para estirar la espalda inferior. (No levantes toda la columna todavía.) Métete en el estómago. Para entrar en un puente, levante toda la columna excepto el cuello."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Peroneals-SMR",
+        "name": "Peroneals-SMR",
+        "force": "estática",
+        "level": "intermedio",
+        "equipment": "rollo de espuma",
+        "primaryMuscles": "b)",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Ponte a tu lado, apoyando tu peso en tu antebrazo y en un rodillo de espuma colocado en el exterior de tu pierna inferior. Tu pierna superior puede estar encima de tu pierna inferior, o puedes cruzarla delante de ti. Esta será tu posición inicial. Levanten las caderas del suelo y comiencen a rodar desde debajo de la rodilla hasta encima del tobillo en el lado de la pierna, pasándose en puntos de tensión durante 10-30 segundos. Repita en la otra pierna."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Peroneals_Stretch",
+        "name": "Peroneals Stretch",
+        "force": "estática",
+        "level": "intermedio",
+        "equipment": "otros",
+        "primaryMuscles": "b)",
+        "secondaryMuscles": "",
+        "instructions": [
+            "En una posición sentada, agite un cinturón, una cuerda o una banda alrededor de un pie. Esta será tu posición inicial. Con la pierna extendida y el talón fuera del suelo, tire sobre el cinturón para que el pie se invierte, con el interior del pie que se tira hacia usted. Sostenga durante 10-20 segundos, y luego cambie los lados."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Physioball_Hip_Bridge",
+        "name": "Physioball Hip Bridge",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "bola de ejercicio",
+        "primaryMuscles": "glutes",
+        "secondaryMuscles": "Hamstrings",
+        "instructions": [
+            "Ponte una pelota para que tu espalda superior esté en la bola con tus caderas sin soporte. Ambos pies deben ser planos en el suelo, ancho de cadera o ancho. Esta será tu posición inicial. Comience al extender las caderas usando sus glutas y hamstrings, elevando sus caderas hacia arriba mientras puenteas. Pausa en la parte superior del movimiento y volver a la posición inicial."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Pin_Presses",
+        "name": "Pin Presses",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "triceps",
+        "secondaryMuscles": "antebrazos de pecho lats hombros traseros medio",
+        "instructions": [
+            "Las prensas de pins eliminan la fase excéntrica de la prensa de banco, desarrollando la fuerza inicial. También le permiten entrenar una gama deseada de movimiento. El banco debe ser establecido en un rack de energía. Establezca los pines al punto deseado en su rango de movimiento, ya sea que sólo sea bloqueado o una pulgada de su pecho. El bar debe ser movido a los clavos y preparado para levantar. Comience por acostarse en el banco, con el bar directamente por encima del punto de contacto durante su banco regular. Métete los pies debajo de ti y arquea tu espalda. Usando la barra para ayudar a soportar su peso, levante el hombro del banco y retráigalos, apretando las cuchillas del hombro juntas. Usa tus pies para llevar tus trampas al banco. Mantenga esta posición del cuerpo apretada a lo largo del movimiento. Usted puede tomar un agarre estándar del banco, o ancho del hombro para centrarse en los tríceps. El bar, la muñeca y el codo deben mantenerse en línea en todo momento. Concéntrate en apretar la barra y tratar de separarla. Conduzca la barra con la mayor fuerza posible. Los codos deben estar encerrados hasta el cierre. Devuelve la barra a los clavos, pausando antes de comenzar la próxima repetición."
+        ],
+        "category": "powerlifting"
+    },
+    {
+        "id": "Piriformis-SMR",
+        "name": "Piriformis-SMR",
+        "force": "estática",
+        "level": "intermedio",
+        "equipment": "rollo de espuma",
+        "primaryMuscles": "glutes",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Siéntate con tus nalgas encima de un rollo de espuma. Dobla tus rodillas, y luego cruza una pierna para que el tobillo esté sobre la rodilla. Esta será tu posición inicial. Cambie su peso al lado de la pierna cruzada, rodando sobre los glúteos hasta que sienta tensión en el glúteo superior. Usted puede ayudar al estiramiento usando una mano para tirar la rodilla doblada hacia su pecho. Mantenga esta posición durante 10-30 segundos, y luego cambie los lados."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Plank",
+        "name": "Plank",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Entra en una posición de prono en el suelo, apoyando tu peso en tus dedos de los pies y tus antebrazos. Sus brazos están doblados y directamente debajo del hombro. Mantenga su cuerpo recto en todo momento, y mantenga esta posición el mayor tiempo posible. Para aumentar la dificultad, se puede levantar un brazo o una pierna."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Plate_Pinch",
+        "name": "Plate Pinch",
+        "force": "estática",
+        "level": "intermedio",
+        "equipment": "otros",
+        "primaryMuscles": "antebrazos",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Coge dos placas de gran tamaño y juntarlas con los lados suaves hacia fuera Utilice sus dedos para agarrar la parte exterior del plato y su pulgar hacia el otro lado, manteniendo ambos platos juntos. Esta es la posición inicial. Aprieta el plato con los dedos y el pulgar. Mantenga esta posición durante todo el tiempo que pueda. Repita la cantidad recomendada de conjuntos prescritos en su programa. Cambiar los brazos y repetir los movimientos."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Plate_Twist",
+        "name": "Plate Twist",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "otros",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Acuéstese en el suelo o una estera de ejercicio con las piernas completamente extendidas y su cuerpo superior derecho. Coge la placa por sus lados con ambas manos en frente de tus abdominales con los brazos ligeramente doblados. Cruza lentamente tus piernas cerca de tus tobillos y levantalas del suelo. Tus rodillas también deben doblarse ligeramente. Nota: Mueva su cuerpo superior de nuevo ligeramente para ayudarle a mantenerlo equilibrado girando este ejercicio. Esta es la posición inicial. Mueva el plato al lado izquierdo y toque el suelo con él. Respira mientras realizas ese movimiento. Vuelve a la posición inicial mientras respiras y luego repite el movimiento pero esta vez al lado derecho del cuerpo. Sugerencia: Utilice un movimiento controlado lento en todo momento. Los movimientos de giro pueden herir la espalda. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Platform_Hamstring_Slides",
+        "name": "Platform Hamstring Slides",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "otros",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "glutes",
+        "instructions": [
+            "Para este movimiento se necesita un piso de madera o similar. Ponte en la espalda con las piernas extendidas. Coloque una toalla de gimnasio o un peso ligero debajo del tacón. Esta será tu posición inicial. Comience el movimiento flexionando la rodilla, manteniendo la otra pierna recta. Continúe trayendo el tacón más cerca de usted, deslizarlo en el suelo. En plena flexión de rodilla, revierte el movimiento para volver a la posición inicial."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Plie_Dumbbell_Squat",
+        "name": "Plie Dumbbell Squat",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "terneros abdominales glutes hamstrings",
+        "instructions": [
+            "Sostén un muñeco en la base con ambas manos y ponte derecho. Mueve las piernas para que estén más anchas que el ancho del hombro separados entre sí con las rodillas ligeramente dobladas. Tus dedos de los pies deben enfrentarse. Nota: Sus brazos deben ser estacionarios mientras realizan el ejercicio. Esta es la posición inicial. Dobla lentamente las rodillas y baja las piernas hasta que los muslos estén paralelos al suelo. Asegúrese de inhalar ya que esta es la parte excéntrica del ejercicio. Presione principalmente con el talón del pie para traer el cuerpo de vuelta a la posición inicial mientras exhala. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Plyo_Kettlebell_Pushups",
+        "name": "Plyo Kettlebell Pushups",
+        "force": "empujar",
+        "level": "expert",
+        "equipment": "timbres",
+        "primaryMuscles": "pecho",
+        "secondaryMuscles": "hombros triceps",
+        "instructions": [
+            "Coloque un timbre en el suelo. Póngase en una posición de presión, en los dedos de los pies con una mano en el suelo y una mano sujetando el timbre, con los codos extendidos. Esta será tu posición inicial. Comience bajando lo más bajo que pueda, manteniendo la espalda recta. Rápida y contundentemente invierte la dirección, empujando hacia el otro lado del timbre, cambiando las manos como lo haces. Continuar el movimiento descendiendo y repitiendo el movimiento de una y otra vez."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Plyo_Push-up",
+        "name": "Plyo Push-up",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "pecho",
+        "secondaryMuscles": "hombros triceps",
+        "instructions": [
+            "Muévete en una posición propensa en el suelo, apoyando tu peso en tus manos y dedos de los pies. Sus brazos deben extenderse completamente con las manos alrededor del ancho del hombro. Mantenga su cuerpo recto a lo largo del movimiento. Esta será tu posición inicial. Descender flexionando en el codo, bajando el pecho hacia el suelo. En el fondo, revierte el movimiento empujando hacia arriba a través de la extensión del codo lo más rápido posible. Intente empujar su cuerpo superior hasta que sus manos salgan del suelo. Volver a la posición inicial y repetir el ejercicio. Para mayor dificultad, agregue aplausos en el movimiento mientras usted es portador de aire."
+        ],
+        "category": "plyometrics"
+    },
+    {
+        "id": "Posterior_Tibialis_Stretch",
+        "name": "Posterior Tibialis Stretch",
+        "force": "estática",
+        "level": "intermedio",
+        "equipment": "otros",
+        "primaryMuscles": "b)",
+        "secondaryMuscles": "",
+        "instructions": [
+            "En una posición sentada, agite un cinturón, una cuerda o una banda alrededor de un pie. Esta será tu posición inicial. Con la pierna extendida y el talón fuera de la tierra, tire sobre el cinturón para que el pie esté manchado, con el exterior del pie siendo tirado hacia usted. Sostenga durante 10-20 segundos, y luego cambie los lados."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Power_Clean",
+        "name": "Power Clean",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "terneros antebrazos glutes baja espalda centro espalda cuadriceps hombros trampa triceps",
+        "instructions": [
+            "Ponte con los pies ligeramente más ancho que el ancho del hombro y los dedos de los dedos apuntando ligeramente. Asientar y agarrar la barra con un agarre cerrado y pronado. Sus manos deben ser ligeramente más anchas que la anchura del hombro aparte de rodillas externas con codos totalmente extendidos. Coloque el bar alrededor de 1 pulgada delante de sus espinillas y sobre las bolas de sus pies. Su espalda debe ser plana o ligeramente arqueada, su pecho sostenido arriba y fuera y sus hojas de hombro deben ser retraídas. Mantenga la cabeza en una posición neutral (en línea con columna vertebral y no inclinada o rotada) con los ojos enfocados directamente hacia adelante. Inhala durante esta fase. Levante el bar desde el suelo extendiendo con fuerza las caderas y las rodillas mientras exhala. Sugerencia: El torso superior debe mantener el mismo ángulo. No te dobles en la cintura todavía y no dejes que las caderas se levanten ante los hombros (esto tendría el efecto de empujar los glúteos en el aire y estirar las hamstrings. Mantenga los codos totalmente extendidos con la cabeza en una posición neutral y los hombros sobre la barra. A medida que el bar levanta lo mantiene lo más cerca posible de los shins. A medida que la barra pasa las rodillas, empuje las caderas hacia adelante y dobla ligeramente las rodillas para evitar bloquearlas. Sugerencia: En este momento tus muslos deberían estar en contra del bar. Mantenga la espalda plana o ligeramente arqueada, codos completamente extendidos y su cabeza neutral. Sugerencia: Mantendrás el aliento hasta la siguiente fase. Inhala y luego, con fuerza y rapidez, extiende tus caderas y rodillas y ponte de pie sobre tus dedos. Mantenga la barra lo más cerca posible de su cuerpo. Sugerencia: Tu espalda debe estar plana con los codos apuntando a los lados y tu cabeza en una posición neutral. Además, mantenga los hombros sobre la barra y los brazos rectos todo el tiempo posible. Cuando las articulaciones del cuerpo inferior se extienden completamente, encoge los hombros hacia arriba rápidamente sin dejar que los codos se flexionen todavía. Exhala durante esta parte del movimiento. A medida que los hombros alcanzan su elevación más alta flexionan sus codos para comenzar a tirar de su cuerpo debajo de la barra. Continúe tirando los brazos lo más alto posible. Sugerencia: Debido a la naturaleza explosiva de esta fase, su torso será erecto o con una espalda arqueada, su cabeza será inclinada hacia atrás ligeramente y sus pies pueden perder contacto con el suelo. Después de que el cuerpo inferior se ha extendido por completo y la barra llega cerca de la altura máxima, tire de su cuerpo debajo de la barra y girar los brazos alrededor y debajo de la barra. Simultáneamente, flexiona las caderas y las rodillas en una posición de cuarto. Una vez que los brazos están debajo de la barra, inhala y luego levanta los codos para colocar los brazos superiores paralelos al suelo. Coloque la barra en la parte frontal de los huesos del cuello y los músculos del hombro delantero. Coge la barra con un torso erecto y apretado, una posición de cabeza neutra y pies planos. Exhala durante este movimiento. Párate extendiendo las caderas y las rodillas a una posición totalmente erecta. Bajar la barra reduciendo gradualmente la tensión muscular de los brazos para permitir un descenso controlado de la barra a los muslos. Inhala durante este movimiento. Simultaneamente flexiona las caderas y las rodillas para amortiguar el impacto de la barra en los muslos. Coloque con los codos totalmente extendido hasta que el bar toque el suelo. Empieza en la Fase 1 y repite la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Power_Clean_from_Blocks",
+        "name": "Power Clean from Blocks",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "cuadriceps",
+        "instructions": [
+            "Con un barbell en cajas de la altura deseada, tome un agarre justo fuera de las piernas. Baja las caderas con el peso centrado en los talones, espalda recta, cabeza hacia adelante, pecho hacia arriba, con los hombros justo delante de la barra. Esta será tu posición inicial. Comience la primera tira conduciendo a través de los talones, extendiendo las rodillas. Tu ángulo trasero debe permanecer igual, y tus brazos deben permanecer rectos. A medida que la barra se acerca a la posición media alta, comience a extenderse a través de las caderas. En un movimiento de salto, acelerar al extender las caderas, las rodillas y los tobillos, utilizando la velocidad para mover la barra hacia arriba. No debe haber necesidad de atravesar activamente los brazos para acelerar el peso. Al final de la segunda tirada, el cuerpo debe ser completamente extendido, inclinado ligeramente hacia atrás, con los brazos todavía extendidos. A medida que se consigue la extensión completa, la transición hacia el tercer tiro por la rizado agresivamente y flexionando los brazos con los codos hacia arriba y hacia fuera. En la extensión máxima, tire usted debajo de la barra lo suficientemente lejos que puede ser atornillado sobre los hombros, girando sus codos bajo la barra como lo hace. El bar debe estar atornillado sobre los hombros prolongados, tocando ligeramente la garganta con las manos relajadas. Recuperar inmediatamente conduciendo a través de los talones, manteniendo el torso recto y codos arriba. Continúe hasta que se haya elevado a una posición de pie, y complete la repetición devolviendo el peso a las cajas."
+        ],
+        "category": "levantamiento de pesas olímpico"
+    },
+    {
+        "id": "Power_Jerk",
+        "name": "Power Jerk",
+        "force": "empujar",
+        "level": "expert",
+        "equipment": "Barbell",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "terneros abdominales glutes hamstrings hombros triceps",
+        "instructions": [
+            "De pie con el peso atornillado en la parte delantera de los hombros, comience con el dip. Con los pies directamente debajo de las caderas, flexiona las rodillas sin mover las caderas hacia atrás. Baja sólo ligeramente, e invierte la dirección lo más poderosamente posible. Conduzca a través de los talones crear la mayor velocidad y fuerza posible, y asegúrese de mover la cabeza fuera del camino mientras la barra deja los hombros. En este momento cuando los pies salen del suelo, los pies deben ser colocados en la posición receptora lo más rápido posible. En el breve momento en que los pies no conducen activamente contra la plataforma, los atletas se esfuerzan por empujar la barra hacia arriba los conducirá hacia abajo. Los pies deben ser movidos a una postura ligeramente más amplia, con las rodillas parcialmente dobladas. Recibe el bar con los brazos cerrados. Volver a una posición de pie."
+        ],
+        "category": "levantamiento de pesas olímpico"
+    },
+    {
+        "id": "Power_Partials",
+        "name": "Power Partials",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Póngase de pie con su torso recto y un muñeco en cada mano que se mantiene a lo largo de los brazos. Los codos deberían estar cerca del torso. Las palmas de las manos deben estar frente a tu torso. Tus pies deben estar sobre el ancho del hombro. Esta será tu posición inicial. Mantener los brazos rectos y el torso estacionario, levantar los pesos hacia los lados hasta que estén cerca de la altura del nivel del hombro mientras exhalan. Siente la contracción por un segundo y comience a bajar los pesos de nuevo a la posición inicial mientras inhala. Sugerencia: Mantenga las palmas hacia abajo con el dedo pequeño ligeramente más alto mientras levanta y baja los pesos ya que concentrará el estrés sobre sus hombros principalmente. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Power_Snatch",
+        "name": "Power Snatch",
+        "force": "Tira",
+        "level": "expert",
+        "equipment": "Barbell",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "los hombros de cuádriceps bajan los glúteos, trampas triceps",
+        "instructions": [
+            "Comience con un barbell cargado en el suelo. El bar debe estar cerca o tocar las espinillas, y se debe tomar un agarre ancho en la barra. Los pies deben estar directamente debajo de las caderas, con los pies se apagan según sea necesario. Baja las caderas, con el pecho arriba y la cabeza mirando hacia adelante. Los hombros deben estar justo delante del bar. Esta será la posición inicial. Comience la primera tira conduciendo por el frente de los talones, levantando la barra desde el suelo. El ángulo trasero debe permanecer igual hasta que la barra pase las rodillas. Transition en la segunda tira extendiendo por las rodillas y tobillos de las caderas, conduciendo la barra lo más rápido posible. El bar debería estar cerca del cuerpo. En la extensión pico, encoge los hombros y permite que los codos se flexionen al lado. A medida que mueves tus pies hacia la posición receptora, una posición ligeramente más amplia, tírate debajo de la barra mientras elevas la barra arriba. El bar debe ser recibido en un escuadrón parcial. Continúe elevando la barra a la posición de arriba, recibiendo el bar encerrado por encima. Volver a una posición de pie con el peso sobre la cabeza."
+        ],
+        "category": "levantamiento de pesas olímpico"
+    },
+    {
+        "id": "Power_Snatch_from_Blocks",
+        "name": "Power Snatch from Blocks",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "crías antebrazos glutes hamstrings hombros traseros inferiores trampas triceps",
+        "instructions": [
+            "Comience con un barbell cargado en cajas o soportes de la altura deseada. Debe tomarse un agarre amplio en el bar. Los pies deben estar directamente debajo de las caderas, con los pies se apagan según sea necesario. Baja las caderas, con el pecho arriba y la cabeza mirando hacia adelante. Los hombros deben estar justo delante del bar, con los codos señalados. Esta será la posición inicial. Comience la primera tira conduciendo por el frente de los talones, levantando la barra de las cajas. Transition en la segunda tira extendiendo por las rodillas y tobillos de las caderas, conduciendo la barra lo más rápido posible. El bar debería estar cerca del cuerpo. En la extensión pico, encoge los hombros y permite que los codos se flexionen al lado. A medida que mueves tus pies en la posición de recepción, empujarte forzadamente debajo de la barra mientras elevas la barra arriba. Los pies deben moverse hacia fuera de las caderas, resultó necesario. Recibe la barra por encima de una escuadra completa y con los brazos completamente extendidos. Mantener la barra alineada sobre el frente de los talones, la cabeza y el pecho hacia arriba, conducir a través de los talones de los pies para moverse a una posición de pie. Devuelve cuidadosamente el peso a las cajas."
+        ],
+        "category": "levantamiento de pesas olímpico"
+    },
+    {
+        "id": "Power_Stairs",
+        "name": "Power Stairs",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "otros",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "adductors calves glutes down back quadriceps shoulders traps",
+        "instructions": [
+            "En las escaleras eléctricas, los implementos se mueven por una escalera. Para fines de entrenamiento, estos pueden realizarse con un neumático o caja. Comience tomando el implemento con ambas manos. Pon los pies de ancho, con la cabeza y el pecho hacia arriba. Conduzca por el suelo con los talones, extendiendo las rodillas y las caderas para aumentar el peso desde el suelo. Al inclinarse hacia atrás, trate de subir el peso sobre las escaleras, que suelen ser alrededor de 16-18\" de altura. Puedes usar tus piernas para ayudar a empujar el peso sobre la escalera. Repita por 3-5 repeticiones, y continúe con un peso más pesado, moviéndose lo más rápido posible."
+        ],
+        "category": "Strongman"
+    },
+    {
+        "id": "Preacher_Curl",
+        "name": "Preacher Curl",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "Barbell",
+        "primaryMuscles": "biceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Para realizar este movimiento necesitará un banco de predicadores y un bar E-Z. Coge el bar E-Z en el mango interior cercano (ya sea que alguien te dé la barra que es preferible o agarra la barra del resto de la barra delantera proporcionada por la mayoría de los bancos del predicador). La palma de tus manos debe estar mirando hacia adelante y deben estar ligeramente inclinadas hacia dentro debido a la forma de la barra. Con los brazos superiores colocados contra el almohadilla del predicador y el pecho contra él, mantenga la barra de Curl E-Z a la longitud del hombro. Esta será tu posición inicial. Mientras respira, baja lentamente la barra hasta que se extiende el brazo superior y los bíceps se estiran completamente. Como exhale, utilice los bíceps para frenar el peso hasta que su bíceps esté completamente contratado y la barra está a la altura del hombro. Apriete los bíceps duro y mantenga esta posición por un segundo. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Preacher_Hammer_Dumbbell_Curl",
+        "name": "Preacher Hammer Dumbbell Curl",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "biceps",
+        "secondaryMuscles": "antebrazos",
+        "instructions": [
+            "Coloque la parte superior de ambos brazos en la parte superior del banco del predicador mientras sostiene un muñeco en cada mano con las palmas que se enfrentan entre sí (agarre neutro). Mientras usted respira, baja lentamente las muñecos hasta que su brazo superior se extiende y los bíceps se estiran completamente. Mientras exhala, utilice los bíceps para frenar el peso hasta que sus bíceps se contraten por completo y los muñecos están a la altura del hombro. Extiende los bíceps duro por un segundo en la posición contratada y repite por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Press_Sit-Up",
+        "name": "Press Sit-Up",
+        "force": "empujar",
+        "level": "expert",
+        "equipment": "Barbell",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "hombros pecho triceps",
+        "instructions": [
+            "Para empezar, acuéstate en un banco con un barbell descansando en tu pecho. Coloca tus piernas para que estén seguras en la extensión del banco abdominal. Esta es la posición inicial. Al inhalar, apriete los abdominales y los glúteos. Curar simultáneamente tu torso como haces al realizar una sentada y presionar el barbell a una posición superior mientras exhala. Sugerencia: Use sus brazos para empujar el barbell hacia fuera mientras realiza este ejercicio mientras todavía se centra en los músculos abdominales. Baja tu cuerpo superior de nuevo a la posición inicial mientras lleva el barbell de regreso a tu torso. Recuerde respirar mientras baja el cuerpo. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Prone_Manual_Hamstring",
+        "name": "Prone Manual Hamstring",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Necesitarás un socio para este ejercicio. Baja la cara con las piernas rectas. Tu asistente pondrá su mano en el talón. Para empezar, flexiona la rodilla para acurrucarte la pierna. Su pareja debe proporcionar resistencia, iniciar la luz y aumentar la presión a medida que se complete el movimiento. Comuníquese con su pareja para monitorear niveles adecuados de resistencia. Pausa en la parte superior, devolver la pierna a la posición inicial, ya que su pareja proporciona resistencia en la otra dirección."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Prowler_Sprint",
+        "name": "Prowler Sprint",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "otros",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "terneros glúteos de pecho cuadriceps hombros",
+        "instructions": [
+            "Coloque su trineo en una superficie adecuada, cargado a un peso adecuado. El trineo debe proporcionar resistencia suficiente para requerir esfuerzo, pero no tan pesado que se está ralentizando significativamente. Usted puede utilizar los mangos rectos o bajos para este ejercicio. Coloque las manos sobre las manijas con los brazos extendidos, inclinándose en el implemento. Con buena postura, conduce por el suelo con pasos alternados y cortos. Muévete tan rápido como puedas por una corta distancia."
+        ],
+        "category": "cardiopatía"
+    },
+    {
+        "id": "Pull_Through",
+        "name": "Pull Through",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cable",
+        "primaryMuscles": "glutes",
+        "secondaryMuscles": "Hamstrings baja la espalda",
+        "instructions": [
+            "Comience de pie unos metros delante de una polea baja con una cuerda o mango pegado. Aléjate de la máquina, rodeando el cable, con los pies separados. Comience el movimiento alcanzando sus piernas lo más lejos posible, doblando las caderas. Mantén las rodillas ligeramente dobladas. Mantener los brazos rectos, extender a través de la cadera para mantenerse recto. Evite tirar hacia arriba a través de los hombros; todo el movimiento debe originarse a través de las caderas."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Pullups",
+        "name": "Pullups",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "lats",
+        "secondaryMuscles": "Biceps en el centro de atrás",
+        "instructions": [
+            "Coge la barra desplegable con las palmas hacia adelante utilizando el agarre prescrito. Nota sobre agarres: Para un agarre ancho, las manos necesitan ser espaciadas a una distancia más amplia que el ancho del hombro. Para un agarre medio, sus manos necesitan ser espaciadas a una distancia igual a su ancho del hombro y para un agarre cercano a una distancia menor que el ancho del hombro. Como ambos brazos extendidos delante de usted sostiene la barra en el ancho de agarre elegido, traiga su torso alrededor de 30 grados o así mientras crea una curvatura en su espalda inferior y pegando su pecho hacia fuera. Esta es tu posición inicial. Tire el torso hasta que la barra toque su pecho superior dibujando los hombros y los brazos superiores hacia abajo y hacia atrás. Exhala mientras realizas esta parte del movimiento. Sugerencia: Concéntrese en apretar los músculos traseros una vez que alcance la posición completa contratada. El torso superior debe permanecer estacionario mientras se mueve a través del espacio y sólo los brazos deben moverse. Los antebrazos no deben hacer otro trabajo aparte de sostener el bar. Después de un segundo en la posición contratada, comience a inhalar y lentamente bajar su torso de nuevo a la posición inicial cuando sus brazos se extienden completamente y los lats se estiran completamente. Repita esta moción por la cantidad prescrita de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Push-Up_Wide",
+        "name": "Push-Up Wide",
+        "force": "",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "pecho",
+        "secondaryMuscles": "los hombros abdominales triceps",
+        "instructions": [
+            "Con las manos separadas, apoye su cuerpo en los dedos de los pies y las manos en una posición de tabla. Sus codos deben ser extendidos y su cuerpo recto. No permitas que tus caderas se muevan. Esta será tu posición inicial. Para empezar, permita que los codos se flexionen, bajando el pecho al suelo mientras inhala. Usando sus músculos pectorales, presione su cuerpo superior de nuevo a la posición inicial al extender los codos. Exhala mientras realizas este paso. Después de pausar en la posición contratada, repita el movimiento por la cantidad prescrita de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Push-Ups_-_Close_Triceps_Position",
+        "name": "Push-Ups - Close Triceps Position",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "triceps",
+        "secondaryMuscles": "hombros pecho",
+        "instructions": [
+            "Acuéstate en el suelo boca abajo y coloca tus manos más cerca que el ancho del hombro para una posición de mano cercana. Asegúrate de mantener el torso en brazos. Bájate hasta que tu pecho casi toque el suelo mientras inhala. Usando sus tríceps y algunos de sus músculos pectorales, presione su cuerpo superior de nuevo a la posición inicial y apriete el pecho. Respira mientras haces este paso. Después de una segunda pausa en la posición contratada, repita el movimiento por la cantidad prescrita de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Push-Ups_With_Feet_Elevated",
+        "name": "Push-Ups With Feet Elevated",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "pecho",
+        "secondaryMuscles": "hombros triceps",
+        "instructions": [
+            "Acuéstate en el suelo boca abajo y coloca tus manos a unos 36 pulgadas de distancia unos de otros sosteniendo tu torso a la longitud de los brazos. Coloque sus dedos encima de un banco plano. Esto permitirá que su cuerpo sea elevado. Nota: Cuanto mayor es la elevación del banco plano, mayor es la resistencia del ejercicio. Bájate hasta que tu pecho casi toque el suelo mientras inhala. Usando los músculos pectorales, presione su cuerpo superior de nuevo a la posición inicial y apriete el pecho. Respira mientras haces este paso. Después de una segunda pausa en la posición contratada, repita el movimiento por la cantidad prescrita de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Push-Ups_With_Feet_On_An_Exercise_Ball",
+        "name": "Push-Ups With Feet On An Exercise Ball",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "bola de ejercicio",
+        "primaryMuscles": "pecho",
+        "secondaryMuscles": "hombros triceps",
+        "instructions": [
+            "Acuéstate en el suelo boca abajo y coloca tus manos a unos 36 pulgadas de distancia unos de otros sosteniendo tu torso a la longitud de los brazos. Pon tus dedos encima de una bola de ejercicio. Esto permitirá que su cuerpo sea elevado. Bájate hasta que tu pecho casi toque el suelo mientras inhala. Usando los músculos pectorales, presione su cuerpo superior de nuevo a la posición inicial y apriete el pecho. Respira mientras haces este paso. Después de una segunda pausa en la posición contratada, repita el movimiento por la cantidad prescrita de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Push_Press",
+        "name": "Push Press",
+        "force": "empujar",
+        "level": "expert",
+        "equipment": "Barbell",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "quadriceps triceps",
+        "instructions": [
+            ""
+        ],
+        "category": "levantamiento de pesas olímpico"
+    },
+    {
+        "id": "Push_Press_-_Behind_the_Neck",
+        "name": "Push Press - Behind the Neck",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "cuadriceps",
+        "instructions": [
+            "De pie con el peso atornillado en la parte posterior de los hombros, comience con el dip. Con los pies directamente debajo de las caderas, flexiona las rodillas sin mover las caderas hacia atrás. Baja sólo ligeramente, e invierte la dirección lo más poderosamente posible. Conducir a través de los talones crear la mayor velocidad y fuerza posible, moviendo la barra en un camino vertical. Usando el impulso generado, termine presionando el sobrepeso que se extiende a través de los brazos. Regrese a la posición inicial, usando sus piernas para absorber el impacto."
+        ],
+        "category": "levantamiento de pesas olímpico"
+    },
+    {
+        "id": "Push_Up_to_Side_Plank",
+        "name": "Push Up to Side Plank",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "pecho",
+        "secondaryMuscles": "los hombros abdominales triceps",
+        "instructions": [
+            "Ponte en posición de presión sobre los dedos de los pies con las manos justo fuera del ancho del hombro. Realizar un empuje permitiendo que los codos se flexionen. Mientras desciendes, mantén tu cuerpo recto. Haz un empuje y mientras subes, mueve tu peso en el lado izquierdo del cuerpo, gira hacia el lado mientras llevas el brazo derecho hacia el techo en una tabla lateral. Baja el brazo de vuelta al suelo para otro empuje y luego girar al otro lado. Repita la serie, alternando cada lado, para 10 o más repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Pushups",
+        "name": "Pushups",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "pecho",
+        "secondaryMuscles": "hombros triceps",
+        "instructions": [
+            "Acuéstate en el suelo boca abajo y coloca tus manos a unos 36 pulgadas de distancia mientras sostienes el torso a la longitud de los brazos. Luego, baja hacia abajo hasta que tu pecho casi toque el suelo mientras inhala. Ahora respire y presione su cuerpo superior de nuevo a la posición inicial mientras apreta el pecho. Después de una breve pausa en la posición contratada superior, puede comenzar a bajarse hacia abajo de nuevo por tantas repeticiones como sea necesario."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Pushups_Close_and_Wide_Hand_Positions",
+        "name": "Pushups (Close and Wide Hand Positions)",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "pecho",
+        "secondaryMuscles": "hombros triceps",
+        "instructions": [
+            "Acuéstate sobre el suelo boca abajo y cuerpo recto con los dedos de los pies en el suelo y las manos más anchas que el ancho del hombro para una posición de la mano ancha y más cerca que el ancho del hombro para una posición estrecha. Asegúrate de mantener el torso en brazos. Bájate hasta que tu pecho casi toque el suelo mientras inhala. Usando los músculos pectorales, presione su cuerpo superior de nuevo a la posición inicial y apriete el pecho. Respira mientras haces este paso. Después de una segunda pausa en la posición contratada, repita el movimiento por la cantidad prescrita de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Pyramid",
+        "name": "Pyramid",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "bola de ejercicio",
+        "primaryMuscles": "inferior",
+        "secondaryMuscles": "hombros",
+        "instructions": [
+            "Empieza rodando el torso hacia adelante sobre la bola para que tus caderas descansen sobre la bola y se conviertan en el punto más alto de tu cuerpo. Descansa tus manos y pies en el suelo. Sus brazos y piernas pueden estar ligeramente doblados o rectos, dependiendo del tamaño de la bola, su flexibilidad y la longitud de sus extremidades. Esto también ayuda a desarrollar la fuerza estabilizadora en su torso y hombros."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Quad_Stretch",
+        "name": "Quad Stretch",
+        "force": "estática",
+        "level": "intermedio",
+        "equipment": "otros",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Ponte de tu lado. Cierra un cinturón, cuerda o banda alrededor de tu pie superior. Flexiona la rodilla y extiende tu cadera, intentando tocar tus glúteos con el pie, y sujetando el cinturón con las manos. Esta será tu posición inicial. Con el cinturón que se mantiene sobre el hombro o sobre la cabeza, tire suavemente para aumentar el estiramiento en los cuádriceps. Sostenga durante 10-20 segundos, y luego cambie los lados."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Quadriceps-SMR",
+        "name": "Quadriceps-SMR",
+        "force": "estática",
+        "level": "intermedio",
+        "equipment": "rollo de espuma",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Coloca la boca abajo en el suelo con tu peso soportado por tus manos o antebrazos. Coloque un rollo de espuma debajo de una pierna en los cuádriceps, y mantenga el pie fuera del suelo. Asegúrese de relajar la pierna tanto como sea posible. Esta será tu posición inicial. Cambie tanto peso sobre la pierna para ser estirado como tolerable, rodar sobre la espuma desde arriba de la rodilla hasta debajo de la cadera, manteniendo puntos de tensión durante 10-30 segundos. Interruptores."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Quick_Leap",
+        "name": "Quick Leap",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "otros",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "crías de mitades",
+        "instructions": [
+            "Necesitarás una caja para esta salida. Comience frente a la caja de pie a 1-2 pies de su borde. Utilizando sus caderas, sube a la caja, aterrizando en ambas piernas. Asegúrese de aterrizar con las piernas dobladas y los pies planos. Inmediatamente al aterrizar, extenderse completamente a través de todo el cuerpo y balancear sus brazos sobre la cabeza para explotar de la caja. Use sus piernas para absorber el impacto del aterrizaje."
+        ],
+        "category": "plyometrics"
+    },
+    {
+        "id": "Rack_Delivery",
+        "name": "Rack Delivery",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "trampas de antebrazos",
+        "instructions": [
+            "Este taladro enseña la entrega del barbell a la posición del rack en los hombros. Comience a sostener un bar en la posición de espantapájaros, con los brazos superiores paralelos al suelo, y los antebrazos colgando hacia abajo. Usa un gancho, con los dedos envueltos sobre los pulgares. Comience girando los codos alrededor de la barra, entregando la barra a los hombros. A medida que sus codos avanzan, relájese. Los hombros deben ser prolongados, proporcionando un estante para la barra, que debe comunicarse ligeramente con la garganta. Es importante que la barra permanezca cerca del cuerpo en todo momento, ya que con una carga más pesada cualquier distancia resultará en una colisión no deseada. A medida que el movimiento se vuelve más suave, la velocidad y la carga pueden aumentarse antes de progresar más."
+        ],
+        "category": "levantamiento de pesas olímpico"
+    },
+    {
+        "id": "Rack_Pull_with_Bands",
+        "name": "Rack Pull with Bands",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "inferior",
+        "secondaryMuscles": "antebrazos glutes hamstrings cuádriceps trampas",
+        "instructions": [
+            "Configurado en una barra de alimentación con la barra en los pasadores. Los clavos deben fijarse en el punto deseado; justo debajo de las rodillas, justo encima, o en la posición del muslo medio. Adjuntar bandas a la base del rack, o asegurarlos con muñecos. Adjuntar el otro extremo al bar. Es posible que necesite ahogar las bandas para proporcionar tensión. Póngase en contra de la barra en la posición correcta de levantamiento mortal. Tus pies deben estar debajo de tus caderas, el ancho del hombro del agarre, la espalda arqueada, y las caderas de vuelta para enganchar las liebres. Dado que el peso es generalmente pesado, puede utilizar un agarre mixto, un agarre de gancho, o usar correas para ayudar a mantener el peso. Con la cabeza mirando hacia adelante, extender a través de las caderas y las rodillas, tirando el peso hacia arriba y hacia atrás hasta el cierre. Asegúrate de retirar los hombros mientras completas el movimiento. Devuelve el peso a los pines y repite."
+        ],
+        "category": "powerlifting"
+    },
+    {
+        "id": "Rack_Pulls",
+        "name": "Rack Pulls",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "inferior",
+        "secondaryMuscles": "antebrazos glutes trampas",
+        "instructions": [
+            "Configurado en una barra de alimentación con la barra en los pasadores. Los clavos deben fijarse en el punto deseado; justo debajo de las rodillas, justo encima, o en la posición del muslo medio. Póngase en contra de la barra en la posición correcta de levantamiento mortal. Tus pies deben estar debajo de tus caderas, el ancho del hombro del agarre, la espalda arqueada, y las caderas de vuelta para enganchar las liebres. Dado que el peso es generalmente pesado, puede utilizar un agarre mixto, un agarre de gancho, o usar correas para ayudar a mantener el peso. Con la cabeza mirando hacia adelante, extender a través de las caderas y las rodillas, tirando el peso hacia arriba y hacia atrás hasta el cierre. Asegúrate de retirar los hombros mientras completas el movimiento. Devuelve el peso a los pines y repite."
+        ],
+        "category": "powerlifting"
+    },
+    {
+        "id": "Rear_Leg_Raises",
+        "name": "Rear Leg Raises",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Póngase de rodillas en una alfombra de ejercicio. Su cabeza debe estar mirando hacia adelante y la curva de las rodillas debe crear un ángulo de 90 grados entre las hamstrings y los terneros. Esta será tu posición inicial. Extender una pierna hacia arriba y detrás de usted. La rodilla y la cadera deben extenderse. Repita por 5-10 repeticiones, y luego cambie los lados."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Recumbent_Bike",
+        "name": "Recumbent Bike",
+        "force": "",
+        "level": "principiante",
+        "equipment": "máquina",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "terneros glutes hamstrings",
+        "instructions": [
+            "Para empezar, siéntese en la bicicleta y ajuste el asiento a su altura. Seleccione la opción deseada en el menú. Puede que tengas que empezar a pedalear para encenderlo. Puede utilizar el ajuste manual, o puede seleccionar un programa para usar. Típicamente, puedes introducir tu edad y peso para estimar la cantidad de calorías quemadas durante el ejercicio. El nivel de resistencia se puede cambiar a lo largo del entrenamiento. Las manijas se pueden utilizar para monitorear su frecuencia cardíaca para ayudarle a mantenerse a una intensidad adecuada. Las bicicletas recuperadas ofrecen comodidad, beneficios cardiovasculares y tienen menos impacto que otras actividades. Una persona de 150 libras quemará alrededor de 230 calorías ciclándose a un ritmo moderado durante 30 minutos, en comparación con 450 calorías o más corriendo."
+        ],
+        "category": "cardiopatía"
+    },
+    {
+        "id": "Return_Push_from_Stance",
+        "name": "Return Push from Stance",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "Bola de medicina",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "triceps de pecho",
+        "instructions": [
+            "Necesitarás un socio para este simulacro. Comience en una posición atlética de 2 o 3 puntos. En la señal, muévete a una posición para recibir el pase de tu pareja. Coge la pelota de medicina con ambas manos e inmediatamente lánzala a tu pareja. Puede modificar este taladro ejecutando diferentes rutas."
+        ],
+        "category": "plyometrics"
+    },
+    {
+        "id": "Reverse_Band_Bench_Press",
+        "name": "Reverse Band Bench Press",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "triceps",
+        "secondaryMuscles": "antebrazos de pecho lats hombros traseros medio",
+        "instructions": [
+            "Posición de un banco dentro de un rack de alimentación, con la barra fijada a la altura correcta. Comience por anclar bandas ya sea para bandas o hasta la parte superior del rack. Asegúrate de estar en posición correctamente bajo las bandas. Adjuntar el otro extremo al barbell. Acuéstate en el banco, ponte los pies debajo de ti y arquea tu espalda. Usando la barra para ayudar a soportar su peso, levante el hombro del banco y retráigalos, apretando las cuchillas del hombro juntas. Usa tus pies para llevar tus trampas al banco. Mantenga esta posición del cuerpo apretada a lo largo del movimiento. Sin embargo agranda tu agarre, debe cubrir el anillo en la barra. Saca el bar del estante sin perder los hombros. Concéntrate en apretar la barra y tratar de separarla. Baja la barra en el pecho inferior o el estómago superior. El bar, la muñeca y el codo deben mantenerse en línea en todo momento. Pausa cuando el barbell toca tu torso, y luego conduce la barra con la mayor fuerza posible. Los codos deben estar encerrados hasta el cierre."
+        ],
+        "category": "powerlifting"
+    },
+    {
+        "id": "Reverse_Band_Box_Squat",
+        "name": "Reverse Band Box Squat",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "abductors adductors calves forearms glutes hamstrings down back",
+        "instructions": [
+            "Comience en un rack de alimentación con una caja a la altura adecuada detrás de usted. Establezca las bandas ya sea en pegs de banda o apegado a la parte superior del rack, asegurando que estarán directamente por encima de la barra durante el squat. Adjuntar el otro extremo al bar. Comience por pisar debajo de la barra y colocarla a través de la parte posterior de los hombros. Extiende tus cuchillas de hombro y gira tus codos hacia adelante, intentando doblar la barra a través de tus hombros. Quitar la barra del rack, crear un arco apretado en la espalda inferior, y volver a la posición. Coloque sus pies más anchos para mayor énfasis en la espalda, glúteos, aductores y hamstrings, o más cerca para un desarrollo más cuádruple. Mantenga la cabeza hacia adelante. Con la espalda, los hombros y el núcleo apretado, empuja las rodillas y el culo hacia fuera y comienzas tu descenso. Siéntate con tus caderas hasta que estés sentado en la caja. Idealmente, tus shins deben ser perpendiculares al suelo. Pausa cuando llegues a la caja y relaja los flexores de cadera. Nunca rebote de una caja. Mantener el peso en los talones y empujar los pies y las rodillas hacia fuera, conducir hacia arriba de la caja mientras conduce el movimiento con la cabeza. Continúe hacia arriba, manteniendo la rigidez cabeza a pie. Usa cuidado para devolver el barbell al rack."
+        ],
+        "category": "powerlifting"
+    },
+    {
+        "id": "Reverse_Band_Deadlift",
+        "name": "Reverse Band Deadlift",
+        "force": "Tira",
+        "level": "expert",
+        "equipment": "Barbell",
+        "primaryMuscles": "inferior",
+        "secondaryMuscles": "abductors adductors calves glutes hamstrings quadriceps",
+        "instructions": [
+            "Pon la barra en un basurero. Adjuntar bandas a la parte superior del rack, utilizando o bien bandas pegs o el marco mismo. Adjuntar el otro extremo de las bandas al bar. Acércate a la barra para que esté centrada sobre tus pies. Los pies deben estar cerca del ancho de la cadera. Doblado en la cadera para agarrar la barra a la anchura del hombro, permitiendo que sus hojas del hombro se extraigan. Típicamente, usarías un agarre de sobremanera o un agarre sobre/bajo en conjuntos más pesados. Con los pies, y el conjunto de la empuñadura, tomar un gran aliento y luego bajar las caderas y doblar las rodillas hasta que sus shins contacten con la barra. Mira hacia adelante con tu cabeza, mantén tu pecho arriba y tu espalda arqueada, y comienza a conducir a través de los talones para mover el peso hacia arriba. Después de que la barra pase las rodillas, tire agresivamente la barra hacia atrás, jalando las cuchillas del hombro mientras conduce las caderas hacia adelante en la barra. Baja el bar doblando en las caderas y guiándolo al suelo."
+        ],
+        "category": "powerlifting"
+    },
+    {
+        "id": "Reverse_Band_Power_Squat",
+        "name": "Reverse Band Power Squat",
+        "force": "empujar",
+        "level": "expert",
+        "equipment": "Barbell",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "adductors calves glutes hamstrings down back",
+        "instructions": [
+            "Comience en un rack de potencia con los pines y la barra fijados en la altura adecuada. Después de cargar la barra, sujetar bandas a la parte superior del rack, utilizando pelucas o el propio marco. Adjuntar el otro extremo de las bandas al bar. Comience por pisar debajo de la barra y colocarla a través de la parte posterior de los hombros. Extiende tus cuchillas de hombro y gira tus codos hacia adelante, intentando doblar la barra a través de tus hombros. Quitar la barra del rack, crear un arco apretado en la espalda inferior, y volver a la posición. Pon tus pies de ancho para mayor énfasis en la espalda, glúteos, aductores y hamstrings. Mantenga la cabeza hacia adelante. Con la espalda, los hombros y el núcleo apretado, empuja las rodillas y el culo hacia fuera y comienzas tu descenso. Siéntese con sus caderas tanto como sea posible. Idealmente, tus shins deben ser perpendiculares al suelo. La posición inferior de la barra requiere un torso mayor inclinado para mantener la barra sobre los tacones. Continuar hasta que se rompa paralelo, que se define como el pliegue de la cadera en línea con la parte superior de la rodilla. Mantener el peso en los talones y empujar los pies y las rodillas hacia fuera, conducir hacia arriba mientras conduce el movimiento con la cabeza. Continúe hacia arriba, manteniendo la rigidez cabeza a pie, hasta que haya regresado a la posición inicial."
+        ],
+        "category": "powerlifting"
+    },
+    {
+        "id": "Reverse_Band_Sumo_Deadlift",
+        "name": "Reverse Band Sumo Deadlift",
+        "force": "Tira",
+        "level": "expert",
+        "equipment": "Barbell",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "abductors adductors calves forearms glutes down quadriceps traps",
+        "instructions": [
+            "Comience con un bar cargado en el suelo dentro de un rack de alimentación. Adjuntar bandas a la parte superior del rack, utilizando pelucas o el marco mismo. Adjuntar el otro extremo al barbell. Acércate a la barra para que la barra interseque el medio de los pies. Los pies deben ser muy anchos, cerca de los collares. En las caderas para agarrar la barra. Los brazos deben estar directamente debajo de los hombros, dentro de las piernas, y se puede utilizar un agarre pronado, un agarre mixto o el agarre de gancho. Relaje los hombros, que en efecto alarga sus brazos. Respira, y luego baja las caderas, mirando hacia delante con la cabeza hacia arriba. Conduce por el suelo, separa tus pies, con tu peso en la parte de atrás de tus pies. Extiende las caderas y las rodillas. A medida que la barra pasa por las rodillas, gire hacia atrás y conduzca las caderas hacia la barra, tirando las cuchillas del hombro juntas. Devuelve el peso al suelo doblando las caderas y controlando el peso en el camino hacia abajo."
+        ],
+        "category": "powerlifting"
+    },
+    {
+        "id": "Reverse_Barbell_Curl",
+        "name": "Reverse Barbell Curl",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "Barbell",
+        "primaryMuscles": "biceps",
+        "secondaryMuscles": "antebrazos",
+        "instructions": [
+            "Póngase de pie con su torso recto mientras sostiene un barbell a la anchura del hombro con los codos cerca del torso. La palma de tus manos debe estar mirando hacia abajo (agarre pronado). Esta será tu posición inicial. Mientras sostiene el estacionario de brazos superiores, acurruca los pesos mientras contrae los biceps mientras respira. Sólo los antebrazos deben moverse. Continúe el movimiento hasta que sus bíceps estén completamente contratados y la barra esté a nivel de hombro. Mantenga la posición contratada por un segundo mientras apreta el músculo. Poco a poco comienza a traer la barra de vuelta a la posición inicial como su respiración. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Reverse_Barbell_Preacher_Curls",
+        "name": "Reverse Barbell Preacher Curls",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "e-z curl bar",
+        "primaryMuscles": "biceps",
+        "secondaryMuscles": "antebrazos",
+        "instructions": [
+            "Coge una barra EZ usando un ancho de hombro y las palmas hacia abajo (pronado) agarre. Ahora coloque la parte superior de ambos brazos encima del banco del predicador y tenga los brazos extendidos. Esta será tu posición inicial. Como exhala, utilice los bíceps para frenar el peso hasta que sus bíceps estén completamente contratados y el barbell está a la altura del hombro. Extiende los bíceps duro por un segundo en la posición contratada. Mientras usted respira, lentamente baja el pezón hasta que sus brazos superiores se extienden y los bíceps se estiran completamente. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Reverse_Cable_Curl",
+        "name": "Reverse Cable Curl",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cable",
+        "primaryMuscles": "biceps",
+        "secondaryMuscles": "antebrazos",
+        "instructions": [
+            "Póngase de pie con su torso recto mientras sostiene un accesorio de barra que se adjunta a una polea baja utilizando un pronated (palms down) y el ancho del hombro. Asegúrese también de mantener los codos cerca del torso. Esta será tu posición inicial. Mientras sostiene el estacionario de brazos superiores, acurruca los pesos mientras contrae los biceps mientras respira. Sólo los antebrazos deben moverse. Continúe el movimiento hasta que sus bíceps estén completamente contratados y la barra esté a nivel de hombro. Mantenga la posición contratada por un segundo mientras apreta el músculo. Poco a poco comienza a traer la barra de vuelta a la posición inicial como su respiración. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Reverse_Crunch",
+        "name": "Reverse Crunch",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Acuéstese en el suelo con las piernas completamente extendidas y los brazos hacia el lado de su torso con las palmas en el suelo. Sus brazos deben ser estacionarios para todo el ejercicio. Mueva las piernas para que sus muslos sean perpendiculares al suelo y los pies estén juntos y paralelos al suelo. Esta es la posición inicial. Mientras inhala, mueve tus piernas hacia el torso mientras enrollas tu pelvis hacia atrás y levantas tus caderas fuera del suelo. Al final de este movimiento, tus rodillas tocarán tu pecho. Mantenga la contracción por un segundo y mueva las piernas de vuelta a la posición inicial mientras exhala. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Reverse_Flyes",
+        "name": "Reverse Flyes",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Para empezar, acuéstate en un banco inclinado con el pecho y el estómago presionando contra la inclinación. Tener las muñecas en cada mano con las palmas que se enfrentan (agarre neutro). Extender los brazos delante de usted para que sean perpendiculares al ángulo del banco. Las piernas deben ser estacionarias mientras aplican presión con la bola de los dedos de los pies. Esta es la posición inicial. Mantener la leve curva de los codos, mover los pesos fuera y lejos uno del otro (al lado) en un movimiento de arco mientras se exhala. Sugerencia: Trate de apretar sus hojas de hombro juntos para obtener los mejores resultados de este ejercicio. Los brazos deben ser elevados hasta que estén paralelos al suelo. Siente la contracción y baja lentamente los pesos de nuevo a la posición inicial mientras inhala. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Reverse_Flyes_With_External_Rotation",
+        "name": "Reverse Flyes With External Rotation",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "tonto.",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Para empezar, acuéstate en un banco inclinado en un ángulo de 30 grados con el pecho y el estómago presionando contra la inclinación. Tener los muñecos en cada mano con las palmas hacia el suelo. Tus brazos deben estar delante de ti para que sean perpendiculares al ángulo del banco. Sugerencia: Tus codos deben tener una ligera curva. Las piernas deben ser estacionarias mientras aplican presión con la bola de los dedos de los pies (sus tacones no deben tocar el suelo). Esta es la posición inicial. Mantener la leve curva de los codos, mover los pesos hacia fuera y lejos uno del otro en un movimiento de arco mientras exhala. Al levantar el peso, su muñeca debe girar externamente por 90 grados para que usted vaya de las palmas hacia abajo (pronado) a una palma que se enfrenta entre sí (neutral). Sugerencia: Trate de apretar sus hojas de hombro juntos para obtener los mejores resultados de este ejercicio. Los brazos deben ser elevados hasta que estén de nivel con la cabeza. Siente la contracción y baja lentamente los pesos de nuevo a la posición inicial mientras inhala. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Reverse_Grip_Bent-Over_Rows",
+        "name": "Reverse Grip Bent-Over Rows",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "atrás.",
+        "secondaryMuscles": "biceps lats shoulders",
+        "instructions": [
+            "Póngase erguido mientras sostiene un barbell con un agarre supinado (palos hacia arriba). Dobla las rodillas ligeramente y lleva el torso hacia adelante, doblando la cintura, manteniendo la espalda recta hasta que sea casi paralela al suelo. Sugerencia: Asegúrate de mantener la cabeza levantada. El barbell debe colgar directamente delante de usted mientras sus brazos cuelgan perpendicular al suelo y su torso. Esta es tu posición inicial. Mientras mantiene el torso estacionario, levante el ladrido mientras respira, manteniendo los codos cerca del cuerpo y no haciendo ninguna fuerza con el antebrazo aparte de sostener los pesos. En la posición contratada superior, apretar los músculos traseros y sostener por un segundo. Baja lentamente el peso de nuevo a la posición inicial mientras inhala. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Reverse_Grip_Triceps_Pushdown",
+        "name": "Reverse Grip Triceps Pushdown",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "cable",
+        "primaryMuscles": "triceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Comience por establecer un accesorio de barras (derecha o e-z) en una máquina de polea alta. Frente al apego de la barra, agárralo con las palmas orientadas hacia arriba (agarre hinchado) a ancho del hombro. Baja la barra usando tus lats hasta que tus brazos estén completamente extendidos por tus lados. Sugerencia: Los codos deben estar junto a tus lados y tus pies deben ser anchos del hombro uno del otro. Esta es la posición inicial. Suba lentamente el apego de la barra mientras inhala por lo que está alineado con su pecho. Sólo los antebrazos deben moverse y los codos/arres arriba deben ser estacionarios a su lado en todo momento. Luego comienza a bajar la barra de cable de nuevo a la posición original mirando mientras exhala y contrae los tríceps duro. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Reverse_Hyperextension",
+        "name": "Reverse Hyperextension",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "máquina",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "Válvulas glutes",
+        "instructions": [
+            "Coloque los pies entre las almohadillas después de cargar un peso adecuado. Ponte en la parte superior, permitiendo que tus caderas cuelguen la espalda, mientras agarras las manijas para mantener tu posición. Para comenzar el movimiento, flexiona las caderas, tirando las piernas hacia adelante. Retrocede el movimiento al extender las caderas, pateando la pierna hacia atrás. Es muy importante no sobresalir la cadera en este movimiento, parando corto de toda su gama de movimiento. Regresa flexionando de nuevo la cadera, tirando el carruaje hacia delante hasta donde puedas. Repita el número deseado de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Reverse_Machine_Flyes",
+        "name": "Reverse Machine Flyes",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "máquina",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Ajuste las manijas para que estén completamente en la parte trasera. Haga una selección de peso adecuada y ajuste la altura del asiento para que las manijas estén a nivel del hombro. Apaga las manijas con las manos hacia dentro. Esta será tu posición inicial. En un movimiento semicircular, saca tus manos hacia tu lado y hacia atrás, contratando tus delts traseros. Mantén los brazos ligeramente doblados a lo largo del movimiento, con todo el movimiento que ocurre en la articulación del hombro. Pausa en la parte posterior del movimiento, y lentamente devuelve el peso a la posición inicial."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Reverse_Plate_Curls",
+        "name": "Reverse Plate Curls",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "otros",
+        "primaryMuscles": "biceps",
+        "secondaryMuscles": "antebrazos",
+        "instructions": [
+            "Comience por estar recto con una placa ponderada sostenida por las manos y los brazos completamente extendidos. Usa un agarre pronado (palos hacia abajo) y asegúrate de que tus dedos cojan el lado áspero del plato mientras tu pulgar agarra el lado suave. Nota: Para los mejores resultados, tome la placa ponderada a una posición de las 11:00 y 1:00. Tus pies deben ser ancho de hombro aparte del otro y la placa ponderada debe estar cerca del área de la ingle. Esta es la posición inicial. Retire lentamente la placa mientras mantenga los codos dentro y los brazos superiores estacionarios hasta que sus bíceps y antebrazos toquen mientras exhalan. El plato debe estar uniformemente alineado con su torso en este punto. Siente la contracción por un segundo y comience a bajar el peso de nuevo a la posición inicial al inhalar Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Reverse_Triceps_Bench_Press",
+        "name": "Reverse Triceps Bench Press",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "triceps",
+        "secondaryMuscles": "hombros pecho",
+        "instructions": [
+            "Recuéstese en un banco plano. Usando un agarre cerrado y supinado (al ancho del hombro), levante la barra desde el bastidor y manténgalo recto sobre usted con los brazos encerrados extendidos delante de usted y perpendicular al suelo. Esta será tu posición inicial. Mientras respiras, baja lentamente hasta que sientas la barra en el pecho medio. Sugerencia: Asegúrese de que en lugar de una prensa regular de banco, mantenga los codos cerca del torso en todo momento con el fin de maximizar la participación de los tríceps. Después de una segunda pausa, traiga la barra de vuelta a la posición inicial mientras respira y empuja la barra usando los músculos de los triceps. Cierre los brazos en la posición contratada, espere un segundo y luego comience a bajar lentamente de nuevo. Sugerencia: Debería tomar al menos dos veces más tiempo bajar que subir. Repita el movimiento por la cantidad prescrita de repeticiones. Cuando termines, coloca el bar de vuelta en el estante."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Rhomboids-SMR",
+        "name": "Rhomboids-SMR",
+        "force": "estática",
+        "level": "intermedio",
+        "equipment": "rollo de espuma",
+        "primaryMuscles": "atrás.",
+        "secondaryMuscles": "trampas",
+        "instructions": [
+            "Baja con la espalda en el suelo. Coloque un rollo de espuma debajo de la parte superior de la espalda, y cruce los brazos delante de usted, extrayendo los hombros. Esta será tu posición inicial. Levante las caderas del suelo, colocando su peso sobre el rollo de espuma. Cambie su peso a un lado a la vez, rodando sobre su espalda media y superior. Pausa en puntos de tensión durante 10-30 segundos."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Rickshaw_Carry",
+        "name": "Rickshaw Carry",
+        "force": "",
+        "level": "intermedio",
+        "equipment": "otros",
+        "primaryMuscles": "antebrazos",
+        "secondaryMuscles": "Cápsulas abdominales glutes Hamstrings inferior cuádriceps trampas",
+        "instructions": [
+            "Coloque el marco en el punto de partida y cargue con el peso adecuado. De pie en el centro del marco, comience por agarrar las manijas y conducir a través de sus tacones para levantar el marco. Asegúrese de que su pecho y la cabeza están arriba y su espalda es recta. Inmediatamente comience a caminar con escalones rápidos y controlados. Mantenga el pecho y avance, y asegúrese de seguir respirando. Lleve el marco al suelo después de haber alcanzado el punto final."
+        ],
+        "category": "Strongman"
+    },
+    {
+        "id": "Rickshaw_Deadlift",
+        "name": "Rickshaw Deadlift",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "otros",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "antebrazos glutes hamstrings inferiores trampas traseras",
+        "instructions": [
+            "Cargue el marco con el peso deseado. Céntrate entre las manijas. Los pies deben estar cerca del ancho de la cadera. Doblado en las caderas para agarrar las manijas, permitiendo que sus cuchillas de hombro se extraigan. Con los pies y el agarre, toma un gran aliento y luego baja las caderas y flexiona las rodillas. Mira hacia adelante con tu cabeza, mantén tu pecho arriba y tu espalda arqueada, y comienza a conducir a través de los talones para mover el peso hacia arriba. A medida que el peso sube, tire sus hojas de hombro juntos mientras conduce sus caderas hacia adelante. Baja el peso doblando las caderas y guiándolo al suelo."
+        ],
+        "category": "Strongman"
+    },
+    {
+        "id": "Ring_Dips",
+        "name": "Ring Dips",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "otros",
+        "primaryMuscles": "triceps",
+        "secondaryMuscles": "hombros pecho",
+        "instructions": [
+            "Agarre un anillo en cada mano, y luego tome un pequeño salto para ayudarle a entrar en la posición inicial con los brazos cerrados. Comience flexionando el codo, bajando su cuerpo hasta que sus brazos se rompan 90 grados. Evite oscilar y mantener una buena postura a lo largo del descenso. Retrocede el movimiento al extender el codo, empujando hacia arriba hacia la posición inicial. Repita el número deseado de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Rocket_Jump",
+        "name": "Rocket Jump",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "crías de mitades",
+        "instructions": [
+            "Comience en una postura relajada con los pies de ancho del hombro y mantenga los brazos cerca del cuerpo. Para iniciar el movimiento, camine a mitad de camino y explote lo más alto posible. Extender completamente todo su cuerpo, alcanzando la cabeza lo más lejos posible. Al aterrizar, absorbe su impacto a través de las piernas."
+        ],
+        "category": "plyometrics"
+    },
+    {
+        "id": "Rocking_Standing_Calf_Raise",
+        "name": "Rocking Standing Calf Raise",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "Barbell",
+        "primaryMuscles": "b)",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Este ejercicio se realiza mejor dentro de un estante de squat para fines de seguridad. Para empezar, ponga la barra en un rack que mejor se ajuste a su altura. Una vez que se elija la altura correcta y la barra está cargada, pise debajo de la barra y colóquela en la parte posterior de sus hombros (sólo debajo del cuello). Sosténgase en la barra usando ambos brazos a cada lado y aléjelo del estante empujando primero con las piernas y al mismo tiempo enderezar su torso. Aléjate del rack y coloca tus piernas usando una posición media de ancho del hombro con los dedos ligeramente apuntados. Mantén la cabeza levantada en todo momento mientras mira hacia abajo te sacará del equilibrio. Mantenga también una espalda recta y mantenga las rodillas con una ligera curva; nunca cerrada. Esta será tu posición inicial. Levante los talones mientras respiras extendiendo los tobillos lo más alto posible y flexionando su becerro. Asegúrese de que la rodilla se mantenga estacionaria en todo momento. No debe haber flexión (excepto la ligera curva inicial que creamos durante el posicionamiento) en cualquier momento. Mantenga la posición contratada por un segundo antes de empezar a bajar. Vuelve lentamente a la posición inicial mientras respiras bajando los talones mientras doblas los tobillos hasta que se estiran los terneros. Ahora levante los dedos de los pies contratando los músculos de la tibia en la parte delantera de los terneros mientras respira. Espera un segundo y devuélvelos mientras respiras. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Rocky_Pull-Ups_Pulldowns",
+        "name": "Rocky Pull-Ups/Pulldowns",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "otros",
+        "primaryMuscles": "lats",
+        "secondaryMuscles": "bíceps hombros traseros medios",
+        "instructions": [
+            "Coge la barra desplegable con las palmas orientadas hacia delante usando un agarre ancho. Como ambos brazos extendidos delante de usted sostiene la barra en el ancho de agarre elegido, traiga su torso alrededor de 30 grados o así mientras crea una curvatura en su espalda inferior y pegando su pecho hacia fuera. Esta es tu posición inicial. Tire el torso hasta que la barra toque su pecho superior dibujando los hombros y los brazos superiores hacia abajo y hacia atrás. Exhala mientras realizas esta parte del movimiento. Sugerencia: Concéntrese en apretar los músculos traseros una vez que alcance la posición completa contratada. El torso superior debe permanecer estacionario mientras se mueve a través del espacio y sólo los brazos deben moverse. Los antebrazos no deben hacer otro trabajo aparte de sostener el bar. Después de un segundo en la posición contratada, comience a inhalar y lentamente bajar su torso de nuevo a la posición inicial cuando sus brazos se extienden completamente y los lats se estiran completamente. Ahora repita los mismos movimientos que se describen anteriormente excepto esta vez su torso permanecerá recto mientras sube y la barra tocará la espalda del cuello en lugar del pecho superior. Sugerencia: Utilice la cabeza para inclinarse hacia adelante ligeramente ya que le ayudará a ejecutar correctamente esta parte del ejercicio. Una vez que se haya reducido a la posición inicial, repita el ejercicio por la cantidad prescrita de repeticiones en su programa."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Romanian_Deadlift",
+        "name": "Romanian Deadlift",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "los glúteos inferiores de la espalda",
+        "instructions": [
+            "Ponga un barbell delante de usted en el suelo y agárralo usando un agarre pronado (palos hacia abajo) que un poco más ancho que el ancho del hombro. Sugerencia: Dependiendo del peso utilizado, es posible que necesite envolturas de muñeca para realizar el ejercicio y también una plataforma elevada para permitir una mejor gama de movimiento. Doblar las rodillas ligeramente y mantener los brillos verticales, caderas de vuelta y espalda recta. Esta será tu posición inicial. Mantener la espalda y los brazos completamente rectos en todo momento, utilizar sus caderas para levantar la barra mientras exhala. Sugerencia: El movimiento no debe ser rápido sino estable y bajo control. Una vez que usted está de pie completamente recto hacia arriba, bajar la barra empujando las caderas hacia atrás, sólo ligeramente doblando las rodillas, a diferencia de cuando se pica. Sugerencia: Respira hondo al comienzo del movimiento y mantén el pecho arriba. Mantenga el aliento mientras baja y exhala mientras completa el movimiento. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Romanian_Deadlift_from_Deficit",
+        "name": "Romanian Deadlift from Deficit",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "antebrazos glutes abajo trampas traseras",
+        "instructions": [
+            "Comiencen de pie mientras sostienen un bar en la longitud del brazo delante de ustedes. Puede ponerse en una plataforma elevada para aumentar el rango de movimiento. Comience por flexionar las rodillas ligeramente, y luego flex en la cadera, moviendo su trasero lo más lejos posible, bajando el torso hasta donde la flexibilidad lo permita. La espalda debe permanecer en extensión absoluta en todo momento, y la barra debe permanecer en contacto con las piernas. Si se hace correctamente, debe haber una fuerte tensión en las hamstrings. Invierte la moción para volver a la posición inicial."
+        ],
+        "category": "levantamiento de pesas olímpico"
+    },
+    {
+        "id": "Rope_Climb",
+        "name": "Rope Climb",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "otros",
+        "primaryMuscles": "lats",
+        "secondaryMuscles": "bíceps antebrazos hombros traseros medio",
+        "instructions": [
+            "Coge la cuerda con ambas manos sobre tu cabeza. Suelta la cuerda mientras tomas un pequeño salto. Envuelve la cuerda alrededor de una pierna, usando los pies para pellizcar la cuerda. Alcance lo más alto posible con los brazos, apretando la cuerda firmemente. Libera la cuerda de tus pies mientras te levantas con los brazos, llevándote las rodillas hacia tu pecho. Rescata tus pies en la cuerda, y luego ponte de pie para tomar otra soga alta en la cuerda. Continúe hasta llegar a la parte superior de la cuerda. Para bajarse, afloje el agarre de los pies en la cuerda mientras se desliza hacia abajo usando un movimiento de mano sobre la mano."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Rope_Crunch",
+        "name": "Rope Crunch",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cable",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Kneel 1-2 pies delante de un sistema de cable con una cuerda pegada. Después de seleccionar un peso adecuado, agarra la cuerda con ambas manos alcanzando la cabeza. Tu torso debe estar recto en la posición inicial. Para empezar, flex en la columna vertebral, tratando de llevar su caja de costillas a sus piernas mientras tira el cable hacia abajo. Pausa en la parte inferior del movimiento, y luego lentamente volver a la posición inicial. Estos se pueden hacer con giros o al lado para golpear las oblicuas."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Rope_Jumping",
+        "name": "Rope Jumping",
+        "force": "",
+        "level": "intermedio",
+        "equipment": "otros",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "crías de mitades",
+        "instructions": [
+            "Sostenga un extremo de la cuerda en cada mano. Coloca la cuerda detrás de ti en el suelo. Levanta los brazos y gira la cuerda sobre la cabeza trayéndola delante de ti. Cuando llegue al suelo, salta sobre él. Encuentra un buen ritmo de giro que se puede mantener. Se pueden utilizar diferentes velocidades y técnicas para introducir variaciones. El salto de cuerda es emocionante, desafía su coordinación y requiere mucha energía. Una persona de 150 libras quemará alrededor de 350 calorías saltando cuerda durante 30 minutos, en comparación con más de 450 calorías corriendo."
+        ],
+        "category": "cardiopatía"
+    },
+    {
+        "id": "Rope_Straight-Arm_Pulldown",
+        "name": "Rope Straight-Arm Pulldown",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cable",
+        "primaryMuscles": "lats",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Adjunte una cuerda a una polea alta y haga su selección de peso. Retrocede un par de pies de la polea con los pies estancados y toma la cuerda con ambas manos. Anímate de la cadera, manteniendo la espalda recta, con los brazos extendidos delante de ti. Esta será tu posición inicial. Mantener los brazos rectos, extender el hombro para bajar la cuerda a los muslos. Pausa en la parte inferior de la moción, apretando sus lats. Volver a la posición inicial sin permitir que el peso se descanse completamente en la pila."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Round_The_World_Shoulder_Stretch",
+        "name": "Round The World Shoulder Stretch",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "otros",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "bíceps pecho",
+        "instructions": [
+            "Pónganse rectos con las piernas juntas, sosteniendo una barra de cuerpo o un escoba. Mantenga el poste detrás de sus caderas con un agarre ancho más ancho que el hombro. Tus palmas deben estar abajo y tus pulgares mirando hacia fuera. Levante lentamente los brazos detrás de la cabeza. No lo obligues si es difícil levantar más lejos."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Rowing_Stationary",
+        "name": "Rowing, Stationary",
+        "force": "",
+        "level": "intermedio",
+        "equipment": "máquina",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "bíceps calves glutes hamstrings parte inferior de la espalda media",
+        "instructions": [
+            "Para empezar, siéntese en el remo. Asegúrate de que tus tacones estén descansando cómodamente contra la base de los pedales y que las correas estén aseguradas. Seleccione el programa que desea utilizar, si es aplicable. Siéntese recto y dobla hacia adelante en las caderas. Hay tres fases de movimiento al usar un remo. La primera fase es cuando se presenta en el remo. Tus rodillas están dobladas y contra tu pecho. Su cuerpo superior se inclina ligeramente hacia adelante mientras mantiene una buena postura. A continuación, empujar contra los pedales y extender las piernas mientras lleva las manos a su área abdominal superior, apretando los hombros de nuevo como usted lo hace. Para evitar estirar la espalda, use principalmente los músculos de la pierna y la cadera. La fase de recuperación simplemente implica enderezar los brazos, doblar las rodillas, y traer su cuerpo hacia adelante de nuevo a medida que usted vuelve a la primera fase."
+        ],
+        "category": "cardiopatía"
+    },
+    {
+        "id": "Runners_Stretch",
+        "name": "Runner's Stretch",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "b)",
+        "instructions": [
+            "Es más fácil entrar en este tramo si empiezas a levantarte, pones una pierna detrás de ti, y lentamente baja el torso al suelo. Mantenga el talón delantero en el suelo (si se levanta, scoot su otra pierna más atrás). Coloque las manos a ambos lados de la pierna delantera. Para sacar más de este tramo, empuja tu trasero hacia el techo, y luego baja gradualmente hacia el suelo. Estirarás el flexor de cadera de la pierna trasera y el hamstring y las nalgas del frente."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Running_Treadmill",
+        "name": "Running, Treadmill",
+        "force": "",
+        "level": "principiante",
+        "equipment": "máquina",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "terneros glutes hamstrings",
+        "instructions": [
+            "Para comenzar, paso a la cinta de correr y seleccione la opción deseada en el menú. La mayoría de las cintas de correr tienen un ajuste manual, o puede seleccionar un programa para ejecutar. Típicamente, puedes introducir tu edad y peso para estimar la cantidad de calorías quemadas durante el ejercicio. La elevación se puede ajustar para cambiar la intensidad del entrenamiento. Los molinos de pan ofrecen comodidad, beneficios cardiovasculares, y generalmente tienen menos impacto que correr afuera. Una persona de 150 libras quemará más de 450 calorías corriendo 8 millas por hora durante 30 minutos. Mantenga la postura adecuada mientras corre, y sólo mantenga las manijas cuando sea necesario, como cuando desmonte o revise su ritmo cardíaco."
+        ],
+        "category": "cardiopatía"
+    },
+    {
+        "id": "Russian_Twist",
+        "name": "Russian Twist",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "inferior",
+        "instructions": [
+            "Acuéstese en el suelo colocando sus pies o debajo de algo que no se mueva o por tener un compañero que los sostenga. Tus piernas deben doblarse en las rodillas. Eleva tu cuerpo superior para que crea una forma de V imaginaria con tus muslos. Sus brazos deben extenderse completamente delante de usted perpendicular a su torso y con las manos apretadas. Esta es la posición inicial. Twist tu torso al lado derecho hasta que tus brazos estén paralelos con el suelo mientras respiras. Mantenga la contracción por un segundo y vuelva a la posición inicial mientras respira. Ahora muévete al lado opuesto realizando las mismas técnicas que aplicaste al lado derecho. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Sandbag_Load",
+        "name": "Sandbag Load",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "otros",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "abdominales biceps ternera antebrazos glutes hamstrings inferior espalda media hombros trampa",
+        "instructions": [
+            "Para cargar bolsas de arena u otros objetos, comience con los implementos colocados una distancia de la plataforma de carga, típicamente 50 pies. Empieza levantando el saco de arena. Los sacos de arena son extremadamente incómodos, y la forma de levantarlos puede variar dependiendo de la bolsa de arena particular utilizada. Llegar lo más lejos posible, extendiéndose por las caderas y las rodillas para levantarlo alto. Normalmente no se permite el duelo. Mover lo más rápido posible a la plataforma, y cargarla, extendiéndose a través de sus caderas, rodillas y tobillos para conseguirlo lo más alto posible. Ponlo en la plataforma, asegurando que no se caiga. Volver a la posición inicial para recuperar el próximo saco de arena, y repetir hasta que el evento esté terminado."
+        ],
+        "category": "Strongman"
+    },
+    {
+        "id": "Scapular_Pull-Up",
+        "name": "Scapular Pull-Up",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "",
+        "primaryMuscles": "trampas",
+        "secondaryMuscles": "en medio de atrás",
+        "instructions": [
+            "Toma un agarre pronado en una barra de arranque. Desde una posición colgante, levante unas pulgadas sin usar los brazos. Haz esto deprimiendo tu cinturón de hombro en un movimiento de retumbamiento inverso. Pausa al final del movimiento, y luego regresa lentamente a la posición inicial antes de realizar más repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Scissor_Kick",
+        "name": "Scissor Kick",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Para empezar, acuéstate con la espalda presionada contra el suelo o en una estera de ejercicio (opcional). Sus brazos deben extenderse completamente a los lados con las palmas hacia abajo. Nota: Los brazos deben estar estacionados todo el tiempo. Con una leve curva en las rodillas, levante las piernas para que sus talones estén cerca de 6 pulgadas fuera del suelo. Esta es la posición inicial. Ahora levante la pierna izquierda hasta cerca de un ángulo de 45 grados mientras que la pierna derecha se baja hasta que el talón sea de 2-3 pulgadas desde el suelo. Cambia los movimientos levantando la pierna derecha y bajando la pierna izquierda. Recuerde respirar mientras realiza este ejercicio. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Scissors_Jump",
+        "name": "Scissors Jump",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "cuadriceps",
+        "secondaryMuscles": "glutes hamstrings",
+        "instructions": [
+            "Asuma una posición de postura pulmonar con un pie hacia adelante con la rodilla doblada, y la rodilla trasera casi tocando el suelo. Asegúrese de que la rodilla delantera está sobre la línea media del pie. Extender a través de ambas piernas, saltar lo más alto posible, oscilando los brazos para ganar ascensor. Mientras saltas tan alto como puedas, cambia la posición de las piernas, moviendo la pierna delantera hacia la espalda y la pierna trasera hacia la parte delantera. Al aterrizar, absorber el impacto a través de las piernas adoptando la posición pulmonar, y repetir."
+        ],
+        "category": "plyometrics"
+    },
+    {
+        "id": "Seated_Band_Hamstring_Curl",
+        "name": "Seated Band Hamstring Curl",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "otros",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Asegure una banda cerca del suelo y coloque un banco a un par de pies de distancia. Asientate en el banco y asegura la banda detrás de los tobillos, empezando con las piernas rectas. Esta será tu posición inicial. Flexiona las rodillas, trayendo los pies hacia el banco. Es posible que necesite apoyarse ligeramente para evitar que sus pies golpeen el suelo. Pausa al final del movimiento, y luego regresa lentamente a la posición inicial."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Barbell_Military_Press",
+        "name": "Seated Barbell Military Press",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "triceps",
+        "instructions": [
+            "Siéntese en un banco de prensa militar con un bar detrás de la cabeza y tenga un spotter que le dé el bar (mejor en el manguito rotador de esta manera) o recojalo cuidadosamente con un agarre pronado (palos hacia adelante). Sugerencia: Su agarre debe ser más ancho que el ancho del hombro y debe crear un ángulo de 90 grados entre el antebrazo y el brazo superior mientras el ladrido baja. Una vez que recojas el barbell con la longitud correcta del agarre, levante la barra sobre la cabeza cerrando los brazos. Sostenga alrededor del nivel del hombro y ligeramente delante de su cabeza. Esta es tu posición inicial. Baja la barra hasta la clavícula lentamente mientras inhala. Levanta el bar de nuevo a la posición inicial mientras exhala. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Barbell_Twist",
+        "name": "Seated Barbell Twist",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "Barbell",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Comience sentándose al final de un banco plano con un barbell colocado encima de sus muslos. Tus pies deben estar separados del hombro. Agarre la barra con las palmas hacia abajo y asegúrese de que sus manos estén más anchas que la anchura del hombro separadas entre sí. Comience a levantar el timbre sobre su cabeza hasta que sus brazos estén completamente extendidos. Ahora baja el pectoral detrás de tu cabeza hasta que esté descansando a lo largo de la base de tu cuello. Esta es la posición inicial. Mientras mantiene los pies y la cabeza estacionaria, mueve la cintura de lado a lado para que tus músculos oblicuos sientan la contracción. Sólo muévete de lado a lado hasta donde tu cintura te permita ir. Estrangular o moverse demasiado lejos puede causar una lesión a ocurrir. Sugerencia: Use un movimiento lento y controlado. Recuerde respirar mientras retorce su cuerpo al lado y al mover de nuevo a la posición inicial. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+        "name": "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "triceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Siéntese al final de un banco plano con un muñeco en un brazo usando un agarre neutral (palos de la mano que enfrenta). Dobla las rodillas ligeramente y lleva el torso hacia adelante, doblando la cintura, manteniendo la espalda recta hasta que sea casi paralela al suelo. Asegúrate de mantener la cabeza levantada. El brazo superior con el muñeco debe estar cerca del torso y alineado con él (levantado hasta que sea paralelo al suelo mientras los antebrazos apuntan hacia el suelo mientras las manos sostienen los pesos). Sugerencia: Debe haber un ángulo de 90 grados entre los antebrazos y el brazo superior. Esta es tu posición inicial. Manteniendo el brazo superior estacionario, utilice los tríceps para levantar el peso mientras exhala hasta que el antebrazo es paralelo al suelo y todo el brazo se extiende. Como muchos otros ejercicios de brazo, sólo el antebrazo se mueve. Después de una segunda contracción en la parte superior, baja lentamente el muñeco de nuevo a la posición inicial mientras inhala. Repita el movimiento por la cantidad prescrita de repeticiones. Cambiar los brazos y repetir el ejercicio."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Bent-Over_Rear_Delt_Raise",
+        "name": "Seated Bent-Over Rear Delt Raise",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "tonto.",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Coloque un par de muñecos esperando delante de un banco plano. Siéntese al final del banco con las piernas juntas y los muñecos detrás de sus pantorrillas. Dobla en la cintura mientras mantiene la espalda recta para recoger las muñecas. Las palmas de tus manos deben estar cara a cara mientras las eliges. Esta será tu posición inicial. Mantener el torso hacia adelante y estacionario, y los brazos ligeramente doblados en los codos, levantar los muñecos directamente al costado hasta que ambos brazos sean paralelos al suelo. Exhala mientras levantas los pesos. (Nota: evite oscilar el torso o traer los brazos de vuelta en lugar del lado.) Después de una segunda contracción en la parte superior, baja lentamente los muñecos de vuelta a la posición inicial. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+        "name": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
+        "force": "empujar",
+        "level": "intermedio",
+        "equipment": "tonto.",
+        "primaryMuscles": "triceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Siéntese al final de un banco plano con un muñeco en ambos brazos usando un agarre neutral (palos de la mano que enfrenta). Dobla las rodillas ligeramente y lleva el torso hacia adelante, doblando la cintura, manteniendo la espalda recta hasta que sea casi paralela al suelo. Asegúrate de mantener la cabeza levantada. Los brazos superiores con los muñecos deben estar cerca del torso y alinearse con él (levantados hasta que estén paralelos al suelo mientras los antebrazos apuntan hacia el suelo mientras las manos sostienen los pesos). Sugerencia: Debe haber un ángulo de 90 grados entre los antebrazos y el brazo superior. Esta es tu posición inicial. Manteniendo los brazos altos estacionarios, utilice los tríceps para levantar el peso mientras exhala hasta que los antebrazos sean paralelos al suelo y todo el brazo se extiende. Como muchos otros ejercicios de brazo, sólo el antebrazo se mueve. Después de una segunda contracción en la parte superior, baja lentamente los muñecos de vuelta a la posición inicial mientras inhala. Repita el movimiento por la cantidad prescrita de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Biceps",
+        "name": "Seated Biceps",
+        "force": "estática",
+        "level": "expert",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "biceps",
+        "secondaryMuscles": "hombros pecho",
+        "instructions": [
+            "Siéntese en el suelo con las rodillas dobladas y su pareja de pie detrás de usted. Extender sus brazos directamente detrás de usted con sus palmas mirando hacia el otro. Tu compañero te mantendrá las muñecas. Esta será la posición inicial. Intente flexionar sus codos, mientras que su pareja evita cualquier movimiento real. Después de 10-20 segundos, relájese los brazos mientras su pareja tire suavemente las muñecas para estirar sus biceps. Asegúrese de avisar a su pareja cuando el estiramiento es apropiado para prevenir lesiones o exceso de estiramiento."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Seated_Cable_Rows",
+        "name": "Seated Cable Rows",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cable",
+        "primaryMuscles": "atrás.",
+        "secondaryMuscles": "biceps lats shoulders",
+        "instructions": [
+            "Para este ejercicio necesitarás acceso a una máquina de remo de polea baja con un V-bar. Nota: El V-bar le permitirá tener un agarre neutral donde las palmas de sus manos se enfrentan. Para entrar en la posición inicial, primero sentarse en la máquina y colocar los pies en la plataforma delantera o en la barra cruzada siempre asegurándose de que las rodillas están ligeramente dobladas y no cerradas. Acércate mientras mantienes la alineación natural de tu espalda y agarra las manijas V-bar. Con los brazos extendidos tire hacia atrás hasta que el torso está en un ángulo de 90 grados desde las piernas. Tu espalda debe estar ligeramente arqueada y tu pecho debe estar pegando. Deberías sentir un buen estiramiento en tus lats mientras sostienes el bar delante de ti. Esta es la posición inicial del ejercicio. Manteniendo el torso estacionario, tire las manijas hacia su torso mientras mantiene los brazos cerca de él hasta que toque los abdominales. Respira mientras realizas ese movimiento. En ese momento deberías estar apretando los músculos de la espalda. Sostenga esa contracción por un segundo y lentamente vuelva a la posición original mientras respira. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Cable_Shoulder_Press",
+        "name": "Seated Cable Shoulder Press",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "cable",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "triceps",
+        "instructions": [
+            "Ajustar el peso a una cantidad adecuada y estar sentado, agarrando las manijas. Sus brazos superiores deben ser de unos 90 grados al cuerpo, con la cabeza y el pecho arriba. Los codos también deben doblarse a unos 90 grados. Esta será tu posición inicial. Comience por extenderse a través del codo, presionando los mangos juntos por encima de su cabeza. Después de pausar en la parte superior, devuelve las manijas a la posición inicial. Asegúrese de mantener la tensión en los cables. También puede ejecutar este movimiento con la espalda de la almohadilla y manos alternas."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Calf_Raise",
+        "name": "Seated Calf Raise",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "máquina",
+        "primaryMuscles": "b)",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Siéntese en la máquina y coloque los dedos de los pies en la parte inferior de la plataforma proporcionada con los talones que se extienden. Elija el posicionamiento de los dedos de su elección (en adelante, dentro o fuera) según el comienzo de este capítulo. Coloque los muslos inferiores debajo de la palanca, que tendrá que ser ajustado según la altura de sus muslos. Ahora coloque las manos encima de la palanca para evitar que se deslice hacia adelante. Levante la palanca ligeramente empujando los talones hacia arriba y suelte la barra de seguridad. Esta será tu posición inicial. Baja lentamente los talones doblando los tobillos hasta que los becerros estén completamente estirados. Inhala mientras realiza este movimiento. Levante los talones al extender los tobillos lo más alto posible como contraiga los becerros y respire. Mantenga la contracción superior por un segundo. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Calf_Stretch",
+        "name": "Seated Calf Stretch",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "",
+        "primaryMuscles": "b)",
+        "secondaryMuscles": "Hamstrings baja la espalda",
+        "instructions": [
+            "Siéntese directamente en una alfombra de ejercicio. Dobla una rodilla y pon ese pie en el suelo para estabilizar el torso. Aprieta la otra pierna y flexiona el tobillo. Usando una banda, toalla o tu mano si puedes alcanzar, tira los dedos de los pies hacia ti. Sostenga durante 10 a 20 segundos, luego cambie los lados."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Seated_Close-Grip_Concentration_Barbell_Curl",
+        "name": "Seated Close-Grip Concentration Barbell Curl",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "biceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Siéntate en un banco plano con un barbell o E-Z Bar delante de ti entre tus piernas. Tus piernas deben extenderse con las rodillas dobladas y los pies en el suelo. Use sus brazos para recoger el pectoral y colocar la parte posterior de los brazos superiores en la parte superior de sus muslos interiores (alrededor de tres pulgadas y media de la parte delantera de la rodilla). Se necesita un agarre supinado más cerca de la anchura del hombro para realizar este ejercicio. Sugerencia: Su brazo debe ser extendido a la longitud de los brazos y el lavabo debe estar por encima del suelo. Esta será tu posición inicial. Mientras sostiene el estacionario de brazos superiores, acurruca los pesos hacia adelante mientras contrae los biceps mientras respira. Sólo los antebrazos deben moverse. Continúe con el movimiento hasta que sus bíceps estén completamente contratados y los muñecos estén a nivel de hombro. Mantenga la posición contratada por un segundo mientras apreta los bíceps. Poco a poco comienzan a traer el peluquero de vuelta a la posición inicial mientras respiran. Sugerencia: Evite mover los movimientos en cualquier momento. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Dumbbell_Curl",
+        "name": "Seated Dumbbell Curl",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "biceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Siéntese en un banco plano con un muñeco en cada mano que se mantiene a lo largo de los brazos. Los codos deberían estar cerca del torso. Gira las palmas de las manos para que estén frente a tu torso. Esta será tu posición inicial. Mientras sostiene el brazo superior estacionario, dobla los pesos y empieza a retorcer las muñecas una vez que los muñecos pasan los muslos para que las palmas de tus manos se enfrenten al final del movimiento. Asegúrate de contratar los biceps mientras respiras y asegúrate de que solo los antebrazos se muevan. Continúe con el movimiento hasta que sus bíceps estén completamente contratados y los muñecos estén a nivel de hombro. Mantenga la posición contratada por un segundo mientras apreta los bíceps. Poco a poco comienzan a traer los muñecos de vuelta a la posición inicial mientras respira y al girar las muñecas de nuevo a un agarre neutral. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Dumbbell_Inner_Biceps_Curl",
+        "name": "Seated Dumbbell Inner Biceps Curl",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "biceps",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Siéntese al final de un banco plano con un muñeco en cada mano que se mantiene a la longitud de los brazos. Los codos deberían estar cerca del torso. Rota las palmas de las manos para que se enfrenten hacia adentro en una posición neutral. Esta será tu posición inicial. Mientras sostienen los brazos altos estacionarios, acurrucan los muñecos hacia fuera y hacia arriba, girando las palmas hacia fuera mientras levantas y manteniendo tus antebrazos en línea con tus deltoides externos. Consejos: Sólo los antebrazos deben moverse. Continúe con el movimiento hasta que sus bíceps estén completamente contratados y los muñecos estén a nivel de hombro. Mantenga la posición contratada por un segundo mientras apreta los bíceps. Poco a poco comienzan a traer los muñecos de vuelta a la posición inicial mientras respiran. Recuerde girar sus brazos mientras baja las pesas para que pueda cambiar de nuevo a un agarre neutral. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Dumbbell_Palms-Down_Wrist_Curl",
+        "name": "Seated Dumbbell Palms-Down Wrist Curl",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "antebrazos",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Empieza colocando dos muñecos en el suelo frente a un banco plano. Siéntese en el borde de la banca plana con las piernas a un ancho de hombro. Asegúrate de mantener los pies en el suelo. Usa tus brazos para agarrar ambos muñecos y levantarlos para que tus antebrazos estén descansando contra tus muslos con las palmas de las manos hacia abajo. Tus muñecas deberían estar colgando sobre el borde de tus muslos. Comienza a curar tu muñeca hacia arriba y exhalando. Baja lentamente las muñecas de nuevo a la posición inicial mientras inhala. Asegúrese de inhalar durante esta parte del ejercicio. Sugerencia: Sus antebrazos deben ser estacionarios ya que su muñeca es el único movimiento necesario para realizar este ejercicio. Repita por la cantidad recomendada de repeticiones. Cuando termines, simplemente baja los muñecos al suelo."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Dumbbell_Palms-Up_Wrist_Curl",
+        "name": "Seated Dumbbell Palms-Up Wrist Curl",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "antebrazos",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Empieza colocando dos muñecos en el suelo frente a un banco plano. Siéntese en el borde de la banca plana con las piernas a un ancho de hombro. Asegúrate de mantener los pies en el suelo. Usa tus brazos para agarrar ambos muñecos y levantarlos para que tus antebrazos estén descansando contra tus muslos con las palmas de las manos que se enfrentan. Tus muñecas deberían estar colgando sobre el borde de tus muslos. Comienza a curar tu muñeca hacia arriba y exhalando. Baja lentamente las muñecas de nuevo a la posición inicial mientras inhala. Asegúrese de inhalar durante esta parte del ejercicio. Sugerencia: Sus antebrazos deben ser estacionarios ya que su muñeca es el único movimiento necesario para realizar este ejercicio. Repita por la cantidad recomendada de repeticiones. Cuando termines, simplemente baja los muñecos al suelo."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Dumbbell_Press",
+        "name": "Seated Dumbbell Press",
+        "force": "empujar",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "triceps",
+        "instructions": [
+            "Coge un par de muñecos y siéntate en un banco de prensa militar o en un banco de utilidad que tiene un respaldo en él mientras colocas los muñecos rectos encima de tus muslos. Limpia los muñecos uno a uno usando los muslos para llevar los muñecos hasta la altura del hombro a cada lado. Gira las muñecas para que las palmas de tus manos estén hacia adelante. Esta es tu posición inicial. Mientras exhala, empuja los muñecos hasta que toquen en la parte superior. Después de una segunda pausa, lentamente vuelva a la posición inicial mientras inhala. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Flat_Bench_Leg_Pull-In",
+        "name": "Seated Flat Bench Leg Pull-In",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Siéntese en un banco con las piernas estiradas delante de usted ligeramente por debajo del paralelo y los brazos aferrados a los lados del banco. Tu torso debe estar inclinado hacia atrás alrededor de un ángulo de 45 grados desde el banco. Esta será tu posición inicial. Lleva las rodillas hacia ti mientras mueves tu torso más cerca de ellos al mismo tiempo. Respira mientras realizas este movimiento. Después de una segunda pausa, vuelva a la posición inicial mientras inhala. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Floor_Hamstring_Stretch",
+        "name": "Seated Floor Hamstring Stretch",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "b)",
+        "instructions": [
+            "Siéntese en una estera con la pierna derecha extendida delante de usted y la pierna izquierda doblada con el pie contra el muslo interior derecho. Anímate de tus caderas y alcanza tu tobillo hasta que sientas un estiramiento en tu hamstring. Sostén 15 segundos, luego repite por tu otro lado."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Seated_Front_Deltoid",
+        "name": "Seated Front Deltoid",
+        "force": "estática",
+        "level": "expert",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "hombros",
+        "secondaryMuscles": "pecho",
+        "instructions": [
+            "Siéntese en el suelo con las piernas dobladas, su compañero de pie detrás de usted. Coloque los brazos directamente a sus lados, con sus palmas frente al suelo. Intente moverlos lo más lejos posible detrás de usted, ya que su asistente sostiene sus muñecas. Esta será tu posición inicial. Mantener los codos rectos, tratar de mover los brazos hacia el frente, con su pareja suavemente refrenándolo para evitar cualquier movimiento real durante 10-20 segundos. Ahora, relaje sus músculos y permita a su pareja aumentar suavemente el estiramiento sobre los hombros y el pecho. Esperen 10 a 20 segundos."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Seated_Glute",
+        "name": "Seated Glute",
+        "force": "estática",
+        "level": "expert",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "glutes",
+        "secondaryMuscles": "adductores",
+        "instructions": [
+            "En una posición sentada con las rodillas dobladas, cruce un tobillo sobre la rodilla opuesta. Tu compañero estará detrás de ti. Ahora, apóyate hacia adelante mientras tu pareja entrena tus hombros con sus manos. Esta será tu posición inicial. Intente empujar su torso de vuelta durante 10-20 segundos, ya que su pareja evita cualquier movimiento real de su torso. Ahora relaje sus músculos mientras su pareja aumenta el estiramiento empujando suavemente su torso hacia adelante durante 10-20 segundos."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Seated_Good_Mornings",
+        "name": "Seated Good Mornings",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "Barbell",
+        "primaryMuscles": "inferior",
+        "secondaryMuscles": "glutes",
+        "instructions": [
+            "Establece una caja en un bastidor de energía. Los clavos deben fijarse en una altura adecuada. Comience pisando debajo de la barra y colocándolo sobre la parte posterior de los hombros, no encima de sus trampas. Extiende tus cuchillas de hombro y gira tus codos hacia adelante, intentando doblar la barra a través de tus hombros. Quitar la barra del rack, creando un arco apretado en la parte inferior de la espalda. Mantenga la cabeza hacia adelante. Con la espalda, los hombros y el núcleo apretado, empuja las rodillas y el culo hacia fuera y comienzas tu descenso. Siéntate con tus caderas hasta que estés sentado en la caja. Esta será tu posición inicial. Mantener la barra apretada, doblar hacia adelante en las caderas tanto como sea posible. Si fijas los pines a lo que sería paralelo, no sólo tienes una seguridad si fallas, pero sabes cuándo parar. Pausa justo por encima de los pines y revierte el movimiento hasta que tu torso sea recto."
+        ],
+        "category": "powerlifting"
+    },
+    {
+        "id": "Seated_Hamstring",
+        "name": "Seated Hamstring",
+        "force": "estática",
+        "level": "expert",
+        "equipment": "",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "b)",
+        "instructions": [
+            "En una posición sentada con las piernas extendidas, haz que tu pareja se quede atrás. Ahora, apóyate hacia adelante mientras tu pareja entrena tus hombros con sus manos. Esta será tu posición inicial. Intente empujar su torso de vuelta durante 10-20 segundos, ya que su pareja evita cualquier movimiento real de su torso. Ahora relaje sus músculos mientras su pareja aumenta el estiramiento empujando suavemente su torso hacia adelante durante 10-20 segundos."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Seated_Hamstring_and_Calf_Stretch",
+        "name": "Seated Hamstring and Calf Stretch",
+        "force": "estática",
+        "level": "intermedio",
+        "equipment": "otros",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "b)",
+        "instructions": [
+            "Cierra un cinturón, cuerda o banda alrededor de un pie. Siéntate con ambas piernas extendidas. Esta será tu posición inicial. Al avanzar ligeramente, tire de la correa para dibujar los dedos del pie. Mantenga esta posición durante 10-20 segundos y luego repita con la otra pierna."
+        ],
+        "category": "estiramiento"
+    },
+    {
+        "id": "Seated_Head_Harness_Neck_Resistance",
+        "name": "Seated Head Harness Neck Resistance",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "otros",
+        "primaryMuscles": "cuello",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Coloque una correa de cuello en el suelo al final de un banco plano. Una vez que hayas seleccionado los pesos, siéntate al final de la banca plana con los pies más anchos que el ancho del hombro separados uno del otro. Tus dedos deben ser señalados. Poco a poco mueva su torso hacia adelante hasta que sea casi paralelo con el suelo. Usando ambas manos, coloca la correa del cuello en la cabeza. Sugerencia: Asegúrate de que los pesos estén todavía en el suelo para evitar cualquier tensión en el cuello. Ahora agarra el peso con ambas manos mientras eleva tu torso de vuelta hasta que sea casi perpendicular al suelo. Nota: Su cabeza y torso necesitan ser inclinados ligeramente hacia adelante para realizar este ejercicio. Ahora coloque ambas manos encima de sus rodillas. Esta es la posición inicial. Baja lentamente el cuello hasta que la barbilla toque la parte superior del pecho mientras respira. Mientras exhala, trae tu cuello de vuelta a la posición inicial. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Leg_Curl",
+        "name": "Seated Leg Curl",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "máquina",
+        "primaryMuscles": "Hamstrings",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Ajuste la palanca de la máquina para adaptarse a su altura y sentarse en la máquina con la espalda contra el soporte trasero. Coloque la parte posterior de la pierna inferior encima de la palanca acolchada (sólo unas cuantas pulgadas debajo de los pantorrillas) y asegure la almohadilla contra los muslos, justo encima de las rodillas. A continuación, agarrar las manijas laterales en la máquina mientras señalas los dedos rectos (o también puedes usar cualquiera de las otras dos posturas) y asegurar que las piernas estén completamente rectas delante de ti. Esta será tu posición inicial. Mientras exhala, tire la palanca de la máquina lo más lejos posible a la parte posterior de sus muslos flexionando a las rodillas. Mantenga su torso estacionario en todo momento. Mantenga la posición contratada por un segundo. Regrese lentamente a la posición inicial mientras respira. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Leg_Tucks",
+        "name": "Seated Leg Tucks",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "cuerpo sólo",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Siéntese en un banco con las piernas estiradas delante de usted ligeramente por debajo del paralelo y los brazos aferrados a los lados del banco. Tu torso debe estar inclinado hacia atrás alrededor de un ángulo de 45 grados desde el banco. Esta será tu posición inicial. Lleva las rodillas hacia ti mientras mueves tu torso más cerca de ellos al mismo tiempo. Respira mientras realizas este movimiento. Después de una segunda pausa, vuelva a la posición inicial mientras inhala. Repita por la cantidad recomendada de repeticiones."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl",
+        "name": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "tonto.",
+        "primaryMuscles": "antebrazos",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Siéntese en un banco plano con una muñeca en la mano derecha. Coloca tus pies planos en el suelo, a una distancia ligeramente más ancha que el ancho del hombro. Anímate y coloca tu antebrazo derecho en la parte superior derecha del muslo con la palma hacia abajo. Sugerencia: Asegúrese de que la parte posterior de la muñeca se encuentra encima de sus rodillas. Esta será tu posición inicial. Baja el muñeco lo más lejos posible que mantengas un apretado agarre en el muñeco. Inhala mientras realiza este movimiento. Ahora dobla el muñeco tan alto como sea posible como contratas los antebrazos y mientras exhalas. Mantenga la contracción por un segundo antes de bajar de nuevo. Sugerencia: El único movimiento debe ocurrir en la muñeca. Realizar la cantidad recomendada de repeticiones, cambiar brazos y repetir el movimiento."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl",
+        "name": "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+        "force": "Tira",
+        "level": "principiante",
+        "equipment": "tonto.",
+        "primaryMuscles": "antebrazos",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Siéntese en un banco plano con una muñeca en la mano derecha. Coloca tus pies planos en el suelo, a una distancia ligeramente más ancha que el ancho del hombro. Anímate y coloca tu antebrazo derecho en la parte superior derecha del muslo con la palma arriba. Sugerencia: Asegúrese de que la parte delantera de la muñeca se encuentra encima de sus rodillas. Esta será tu posición inicial. Baja el muñeco lo más lejos posible que mantengas un apretado agarre en el muñeco. Inhala mientras realiza este movimiento. Ahora dobla el muñeco tan alto como sea posible como contratas los antebrazos y mientras exhalas. Mantenga la contracción por un segundo antes de bajar de nuevo. Sugerencia: El único movimiento debe ocurrir en la muñeca. Realizar la cantidad recomendada de repeticiones, cambiar brazos y repetir el movimiento."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_One-arm_Cable_Pulley_Rows",
+        "name": "Seated One-arm Cable Pulley Rows",
+        "force": "Tira",
+        "level": "intermedio",
+        "equipment": "cable",
+        "primaryMuscles": "atrás.",
+        "secondaryMuscles": "biceps lats traps",
+        "instructions": [
+            "Para entrar en la posición inicial, primero sentarse en la máquina y colocar los pies en la plataforma delantera o en la barra cruzada siempre asegurándose de que las rodillas estén ligeramente dobladas y no cerradas. Inclínate mientras mantienes la alineación natural de tu espalda y agarras el apego de un solo mango con tu brazo izquierdo usando un agarre de palmas hacia abajo. Con el brazo extendido tire hacia atrás hasta que el torso está en un ángulo de 90 grados desde las piernas. Tu espalda debe estar ligeramente arqueada y tu pecho debe estar pegando. Deberías sentir un buen estiramiento en el lat mientras sostienes el bar delante de ti. El brazo derecho puede ser mantenido por la cintura. Esta es la posición inicial del ejercicio. Manteniendo el torso estacionario, tire de las manijas hacia el torso mientras mantiene los brazos cerca de él mientras gira la muñeca, de modo que para el tiempo que su mano está por sus abdominales está en una posición neutral (palos frente al torso). Respira mientras realizas ese movimiento. En ese momento deberías estar apretando los músculos de la espalda. Sostenga esa contracción por un segundo y lentamente vuelva a la posición original mientras respira. Sugerencia: Recuerde girar la muñeca a medida que vuelva a la posición inicial para que las palmas estén hacia abajo de nuevo. Repita por la cantidad recomendada de repeticiones y luego realice el mismo movimiento con la mano derecha."
+        ],
+        "category": "fuerza"
+    },
+    {
+        "id": "Seated_Overhead_Stretch",
+        "name": "Seated Overhead Stretch",
+        "force": "estática",
+        "level": "principiante",
+        "equipment": "",
+        "primaryMuscles": "abdominales",
+        "secondaryMuscles": "",
+        "instructions": [
+            "Siéntese directamente en una alfombra de ejercicio. Toca las plantas de tus pies junto con tus pies de seis a ocho pulgadas delante de tus caderas. Ponga una mano en el suelo junto a usted y su otra mano detrás de su cabeza. Levante el codo al techo mientras inclinas el torso al otro lado. Sostenga durante 10 a 20 segundos, luego cambie los lados."
+        ],
+        "category": "estiramiento"
     }
 ]
